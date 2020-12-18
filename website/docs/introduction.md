@@ -1,8 +1,8 @@
 ---
-id: doc1
+id: intro
 title: Introduction
 sidebar_label: Getting Started
-# slug: /
+slug: /
 ---
 
 ## Overview

@@ -8,7 +8,10 @@ module.exports = {
       "observations",
       "dictionary",
       "drugs",
-      "generalSettings",
+      "Departments",
+      "ManageConsentForm",
+      "generalsettings"
+      
     ],
   },
 };

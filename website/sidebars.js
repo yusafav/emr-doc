@@ -6,7 +6,8 @@ module.exports = {
       "userManagement",
       "dictionary",
       "drugs",
-      "generalsettings"
+      "generalsettings",
+      "manageinsurance"
     ],
   },
 };

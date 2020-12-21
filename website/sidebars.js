@@ -10,8 +10,7 @@ module.exports = {
       "drugs",
       "Departments",
       "ManageConsentForm",
-      "generalsettings"
-      
+      "generalSettings",
     ],
   },
 };

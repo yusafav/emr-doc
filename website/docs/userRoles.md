@@ -5,18 +5,18 @@ title: User Roles
 
 Displays the user roles,user permissions and status of the user which are necessary for accessing the functionalities provided by the application.
 
-#### Listing the roles
+## Listing the roles
 
 User roles section initially displays the list of user roles.
 
-#### Listing the Permissions and status
+## Listing the Permissions and status
 
 - On selecting any user roles the permissions associated with the user roles will be listed down.
 - All the permisssions available for the selected user will be listed down which the admin can enable or disable.
 - Admin can activate or deactivate the user role by selecting active or inactive buttons.
 - All the changes will be reflected, only by clicking the save button.
 
-#### Create User Role
+## Create New User Role
 
 New user can be added by clicking the <code>Create Role</code>.
 

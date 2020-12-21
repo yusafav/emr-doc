@@ -27,11 +27,11 @@ User can create a new dictionary by adding the details
 
 ###### Fields
 
-- `Code Type`:It is the type of application meta data.
-- `Code`:It is the code of the meta datas ie the values which comes in the dropdowns in various screens.
-- `Text`:While adding new dictionary the admin can add a text for the new dictionary.
-- `Description`:Admin can add the description for the dictionary
-- `Actions`:Two types of actions are available for each dictionary.
+- `Code Type`: It is the type of application meta data.
+- `Code`: It is the code of the meta datas ie the values which comes in the dropdowns in various screens.
+- `Text`: While adding new dictionary the admin can add a text for the new dictionary.
+- `Description`: Admin can add the description for the dictionary
+- `Actions`: Two types of actions are available for each dictionary.
 
 ## Filtering
 
@@ -40,14 +40,6 @@ Dictionaries can be filtered based on the different dictionary types like `disea
 ## Listing
 
 Dictionary section displays the list of dictionaries with each dictionary having information about [fields](#fields):
-
-<!-- ###### Fields
-
-- `Code Type`:It is the type of application meta data.
-- `Code`:It is the code of the meta datas ie the values which comes in the dropdowns in various screens.
-- `Text`:While adding new dictionary the admin can add a text for the new dictionary.
-- `Description`:Admin can add the description for the dictionary
-- `Actions`:Two types of actions are available for each dictionary. -->
 
 - #### Edit:
 

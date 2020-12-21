@@ -5,11 +5,11 @@ sidebar_label: User Management
 # slug: /
 ---
 
-#### Listing the roles
+## Listing the roles
 
 User Management section displays the list of users in a table and these users can be filtered based on <code>User role</code>,<code>Name</code>,<code>Status</code>,<code>Email</code>
 
-#### User Details
+## User Details
 
 User details include:
 
@@ -30,7 +30,7 @@ User details include:
     - On Clicking the delete icon a confirmation modal will be displayed before deleting the user permanently.
     - After confirming the delete action the deleted user will not be displayed no longer in the user table.
 
-#### Create New User Role
+## Create New User Role
 
 New user can be added by clicking the <code>Create Role</code>.
 

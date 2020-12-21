@@ -1,10 +1,10 @@
 ---
-id: generalsettings
+id: generalSettings
 title: General Settings
 ---
-This option gives the admin the ability to change the logo, theme, cover photo and set the email 
-to which the user can contact along with a message.
 
+This option gives the admin the ability to change the logo, theme, cover photo and set the email
+to which the user can contact along with a message.
 
 #### Changing Theme
 
@@ -22,13 +22,11 @@ The admin has the option to upload logo of the origanization for which the appli
 
 This option allows the admin to set the cover picture which is displayed in the front page of the main webpage.
 
-
 ![Changing Cover Photo](assets/cover_picture.png)
 
 #### Setting Contact Email
 
 This allows the admin to set the email to which users can send mail inorder to communicate with his organization.
-
 
 ![Setting contact mail](assets/contact_email.png)
 
@@ -37,6 +35,5 @@ This allows the admin to set the email to which users can send mail inorder to c
 This allows the admin to set a message in the contact section.
 
 ![Setting contact message](assets/contact_message.png)
-
 
 <!-- This is a link to [another document.](doc3.md) This is a link to an [external page.](http://www.example.com/) -->

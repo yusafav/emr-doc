@@ -28,7 +28,7 @@ User details include:
   - ##### Delete
     It deletes the user permanently.
     - On Clicking the delete icon a confirmation modal will be displayed before deleting the user permanently.
-    - After confirming the delte action the deleted user will not be displayed no longer in the user table.
+    - After confirming the delete action the deleted user will not be displayed no longer in the user table.
 
 #### Create New User Role
 

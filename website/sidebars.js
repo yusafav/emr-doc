@@ -4,6 +4,8 @@ module.exports = {
     "Admin Functionalities": [
       "userRoles",
       "userManagement",
+      "Departments",
+      "observations",
       "dictionary",
       "drugs",
       "Departments",

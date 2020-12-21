@@ -6,6 +6,10 @@ module.exports = {
       "userManagement",
       "dictionary",
       "drugs",
+      "Departments",
+      "ManageConsentForm",
+      "generalsettings"
+      
     ],
   },
 };

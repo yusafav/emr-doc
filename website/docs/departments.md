@@ -5,7 +5,7 @@ title: Departments
 
 Displays the departments in a hospital.
 
-#### Listing the departments
+#### Listing the Departments
 
 Department section initially displays all departments.
 
@@ -13,13 +13,17 @@ Department section initially displays all departments.
 
 New department can be added by clicking the  <code>New Department</code>.
 
-Create Department modal has a text field <code>Name</code> to add the name of new department.
+Create Department modal has a single field:
+
+- <code>Name</code> which is a text field to enter the name of new department.
 
 #### Edit Department
 
 Existing department name can be edited by clicking edit icon. 
 
-Update Department modal has a text field <code>Name</code> to change the name of department.
+Update Department modal has a single field:
+
+- <code>Name</code> which is a text field to change the name of department.
 
 #### Delete Department
 

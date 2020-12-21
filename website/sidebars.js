@@ -9,6 +9,7 @@ module.exports = {
       "dictionary",
       "drugs",
       "Departments",
+      "chiefComplaints",
       "ManageConsentForm",
       "generalSettings",
     ],

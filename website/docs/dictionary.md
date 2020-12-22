@@ -49,7 +49,7 @@ Dictionary section displays the list of dictionaries with each dictionary having
 
 - #### Delete:
 
-  It deletes the user permanently.
+  It deletes the dictionary permanently.
 
   - On Clicking the delete icon a confirmation modal will be displayed before deleting the dictionary permanently.
   - After confirming the delete action the deleted dictionary will no longer be displayed in the user table.

@@ -12,7 +12,7 @@ module.exports = {
       "chiefComplaints",
       "ManageConsentForm",
       "generalSettings",
-      "hl7Listeners",
+      "emailTemplate",
     ],
   },
 };

@@ -13,17 +13,20 @@ Lists the chief complaints which appears as one of the field in the examination 
 
   - #### Edit:
 
-  - On clicking the edit icon the edit modal will be opened.
-  - The admin can either edit the dictionary details and save it .
-  - The edit modal contains the same [fields](#fields) displayed in the table.
+    - On clicking the edit icon the edit modal will be opened.
+    - The admin can edit the chief complaints .
+    - The edit modal contains :
+
+      ###### fields
+
+      - `Name`: It is the name of the chief complaint.
+      - `Department`: It is the name of the department to which the compalint belongs.
 
   - #### Delete:
 
-    It deletes the dictionary permanently.
+    - On Clicking the delete icon a confirmation modal will be displayed before deleting the chief complaint permanently.
+    - After confirming the delete action the deleted chief complaint will no longer be displayed in the application.
 
-  - On Clicking the delete icon a confirmation modal will be displayed before deleting the dictionary permanently.
-  - After confirming the delete action the deleted dictionary will no longer be displayed in the user table.
+## Create New Chief Complaint
 
-# Create New Chief Complaint
-
-On clicking the
+On clicking the `Add New` button a modal will be opened with same [fields](#fields) as the edit modal.

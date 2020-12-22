@@ -9,7 +9,7 @@ Displays the user roles,user permissions and status of the user which are necess
 
 User roles section initially displays the list of user roles.
 
-![User roles section](assets/userRole/userRole.png)
+![User roles section](assets/userRole/userRoleList.png)
 
 ## Listing the Permissions and status
 

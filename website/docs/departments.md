@@ -5,7 +5,7 @@ title: Departments
 
 Displays the departments in a hospital.
 
-### Listing the Departments
+### Listing The Departments
 
 Department section initially displays all departments.
 

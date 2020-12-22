@@ -25,12 +25,12 @@ This screen lists different observation items called forms.Each form item has di
 
 - Clicking on the `Create New Field` in the manage field section inside observations opens a modal.
 - The modal contains fields:
-  - `Name`: It is the name used to identify the field
-  - `Type`: It is the type of the field like drop down ,text area ,input text,radio button, date picker,input number
-  - `Mandatory`: It is a checkbox to record whether the field is mandatory or not.
-  - `Input Box Size`:It allows the user to choose the size of the input box from the options.
-    - Full Width: On selecting the full width the field occupies the full width of the form conatiner.
-    - Half width: On selecting the half width the field occupies the half width of the form conatiner.
+  - `Name` : It is the name used to identify the field
+  - `Type` : It is the type of the field like drop down ,text area ,input text,radio button, date picker,input number
+  - `Mandatory` : It is a checkbox to record whether the field is mandatory or not.
+  - `Input Box Size` :It allows the user to choose the size of the input box from the options.
+    - `Full Width` : On selecting the full width the field occupies the full width of the form conatiner.
+    - `Half width` : On selecting the half width the field occupies the half width of the form conatiner.
 
     ![Creating observation field](assets/observation/create-field.png)
 

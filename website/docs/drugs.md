@@ -27,15 +27,15 @@ User can create a new drugs by adding the details
 
 ###### Fields
 
-- `Drug Type`: It is the type of application meta data.
-- `Code`: It is the code of the meta datas ie the values which comes in the dropdowns in various screens.
-- `Text`: While adding new drug the admin can add a text for the new drug.
-- `Description`: Admin can add the description for the drug
-- `Actions`: Two types of actions are available for each drug.
+- `Drug Type` : It is the type of application meta data.
+- `Code` : It is the code of the meta datas ie the values which comes in the dropdowns in various screens.
+- `Text` : While adding new drug the admin can add a text for the new drug.
+- `Description` : Admin can add the description for the drug
+- `Actions` : Two types of actions are available for each drug.
 
 ## Searching
 
-Drugs can be searched based on the drug code
+Drugs can be searched based on the drug code.
 
 ## Listing
 

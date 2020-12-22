@@ -13,7 +13,6 @@ module.exports = {
       "laboratory",
       "radiology",
       "chiefComplaints",
-      "Departments",
       "ManageConsentForm",
       "generalSettings",
       "emailTemplate",

@@ -7,13 +7,13 @@ sidebar_label: Laboratory
 
 Laboratory section deals with the lab tests available for the patient.
 
-## Listing the specimens
+## Listing The Specimens
 
 - This section lists the specimens which the patient needs to be tested.
 - The table contains:
 
-  - `Types`: It is the name of the specimen.
-  - `Actions`: It includes generally three main functions :
+  - `Types` : It is the name of the specimen.
+  - `Actions` : It includes generally three main functions :
 
     - #### Manage Test Type
       - It includes the list of chemical components of the specimen which needs to be tested.
@@ -32,13 +32,13 @@ Laboratory section deals with the lab tests available for the patient.
 - In the modal add the name of the new specimen in the `Type` field.
 - Click on the `Save` button to add the new specimen.
 
-## Listing the Chemical Components
+## Listing The Chemical Components
 
 - This section lists the chemical components of the specimen which needs to be tested.
 - The table contains:
 
-  - `Test Types`: It is the name of the chemical componnet of the selected specimen.
-  - `Actions`: It includes generally three main functions :
+  - `Test Types` : It is the name of the chemical componnet of the selected specimen.
+  - `Actions` : It includes generally three main functions :
 
     - #### Manage Tests
       - It includes the list of chemical components of the specimen which needs to be tested.
@@ -62,8 +62,8 @@ Laboratory section deals with the lab tests available for the patient.
 - This section displays the list of currently available tests.
 - The table contains:
 
-  - `Tests`: It is the name of the chemical componnet of the selected specimen.
-  - `Actions`: It includes generally three main functions :
+  - `Tests` : It is the name of the chemical componnet of the selected specimen.
+  - `Actions` : It includes generally three main functions :
 
     - #### Edit
 

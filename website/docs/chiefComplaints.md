@@ -19,10 +19,8 @@ Lists the chief complaints which appears as one of the field in the examination 
     - The admin can edit the chief complaints .
     - The edit modal contains :
 
-      ###### fields
-
-      - `Name`: It is the name of the chief complaint.
-      - `Department`: It is the name of the department to which the compalint belongs.
+      - `Name` : It is the name of the chief complaint.
+      - `Department` : It is the name of the department to which the compalint belongs.
 
       ![Edit complaint](assets/chiefComplaints/edit_complaint.png)
 

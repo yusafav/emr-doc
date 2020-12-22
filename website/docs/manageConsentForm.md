@@ -23,6 +23,8 @@ Consent form details include:
         - On Clicking the delete icon a confirmation modal will be displayed before deleting the consent form permanently.
         - After confirming the delete action the consent form will no longer be available in table.
 
+![Create consent form](assets/manage-consent-form/consent-overall.png)
+
 ### Create New Consent Form
 
 New consent form can be uploaded by clicking the <code>Create Consent Form</code>.
@@ -32,3 +34,11 @@ Create Consent Form modal have basically three fields:
 - <code>Form Name</code> which is a text field to enter the name of the consent form.
 - <code>Department</code> which is a dropdown to select the department.
 - <code>Upload Consent Form</code> which is a drag and drop field to upload the consent form.
+
+![Create consent form](assets/manage-consent-form/create-consent-form.png)
+
+- Once the consent form is uploaded, the nurse will be able to access it depending on for which department that form is meant for, when a patient visits a doctor in that particular department.
+
+![Consent form 1](assets/manage-consent-form/consent-form-1.png)
+
+![Consent form 2](assets/manage-consent-form/consent-form-2.png)

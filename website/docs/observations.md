@@ -19,6 +19,8 @@ This screen lists different observation items called forms.Each form item has di
   - `Department`: It is a dropdown with department names as the values.
 - Each form has different fields which can be created by clicking on `Manage fields` and then further clicking the [Create New Field](#create-observation-fields)
 
+![Creating observation form](assets/observation/create-obs.png)
+
 ## Create Observation Fields
 
 - Clicking on the `Create New Field` in the manage field section inside observations opens a modal.
@@ -30,6 +32,8 @@ This screen lists different observation items called forms.Each form item has di
     - Full Width: On selecting the full width the field occupies the full width of the form conatiner.
     - Half width: On selecting the half width the field occupies the half width of the form conatiner.
 
+    ![Creating observation field](assets/observation/create-field.png)
+
 ## Delete Observation Fields
 
 It deletes the field permanently.
@@ -37,6 +41,13 @@ It deletes the field permanently.
 - On Clicking the delete icon a confirmation modal will be displayed before deleting the field permanently.
 - After confirming the delete action the deleted field will no longer be displayed in the `Manage Fields` sub section in the observation.
 
+![Delete observation field](assets/observation/delete-button.png)
+
+![Delete observation field](assets/observation/delete-modal.png)
+
+
 ## UI Change
 
 The added observation gets reflected in the doctor screen as:
+
+![Changes in doctor page](assets/observation/doctor-page-add-obs.png)

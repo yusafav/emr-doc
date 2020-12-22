@@ -6,15 +6,16 @@ module.exports = {
       "userManagement",
       "Departments",
       "observations",
-      "dictionary",
       "drugs",
+      "dictionary",
       "laboratory",
       "radiology",
       "chiefComplaints",
       "ManageConsentForm",
       "manageInsurance",
-      "generalSettings",
       "emailTemplate",
+      "generalSettings",
+      
     ],
   },
 };

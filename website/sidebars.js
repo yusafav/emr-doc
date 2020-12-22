@@ -12,7 +12,6 @@ module.exports = {
       "manageInsurance",
       "laboratory",
       "chiefComplaints",
-      "Departments",
       "ManageConsentForm",
       "generalSettings",
       "emailTemplate",

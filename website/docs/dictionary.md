@@ -2,7 +2,6 @@
 id: dictionary
 title: Dictionary
 sidebar_label: Dictionary
-slug: /
 ---
 
 Dictionaries are the application meta datas which are used as the dropdowns through out the application like `disease`,`allergy`,`citizenship`,`email type`,`generic codes`,`citizenship`,`primary languages`,`specialities` etc..

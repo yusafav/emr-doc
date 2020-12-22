@@ -8,6 +8,7 @@ module.exports = {
       "observations",
       "dictionary",
       "drugs",
+      "manageSections",
       "laboratory",
       "radiology",
       "chiefComplaints",

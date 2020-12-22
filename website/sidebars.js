@@ -4,10 +4,15 @@ module.exports = {
     "Admin Functionalities": [
       "userRoles",
       "userManagement",
+      "Departments",
+      "observations",
       "dictionary",
       "drugs",
-      "generalsettings",
-      "manageinsurance"
+      "manageinsurance",
+      "laboratory",
+      "chiefComplaints",
+      "ManageConsentForm",
+      "generalSettings",
     ],
   },
 };

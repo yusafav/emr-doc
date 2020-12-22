@@ -9,6 +9,8 @@ sidebar_label: User Management
 
 User Management section displays the list of users in a table and these users can be filtered based on <code>User role</code>,<code>Name</code>,<code>Status</code>,<code>Email</code>
 
+![List of Users](assets/userManagement/userManagementList.png)
+
 ## User Details
 
 User details include:
@@ -25,10 +27,13 @@ User details include:
   - ##### Edit
     It allows the admin to edit the user details.The admin can edit the following fields of the user:
     - `user type`,`Department`,`First Name`,`Last Name`,`Gender`,`Date of Birth`,`Primary Contact No`,`Secondary Contact Number`,`Consultation Time (Minutes)`,`Start Time`,`End Time`,`Consultation Fee`,`Privileges`,`Active Status`
+![edit user](assets/userManagement/editUser.png)
+
   - ##### Delete
     It deletes the user permanently.
     - On Clicking the delete icon a confirmation modal will be displayed before deleting the user permanently.
     - After confirming the delete action the deleted user will not be displayed no longer in the user table.
+![delete user](assets/userManagement/deleteUser.png)
 
 ## Create New User Role
 
@@ -39,3 +44,5 @@ Create User Role modal have basically three fields:
 - <code> User role name</code> which is a text field to enter the the name of the user role.
 - <code>Backoffice User </code> which is a radio button accepting yes or no values.It is to confirm whether the user is an admin or not..
 - <code> Is Department Related</code> which is a checkbox to record whether the new user role is related to any department or not.
+
+![Create new user](assets/userManagement/createNewUserRole.png)

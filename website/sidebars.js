@@ -13,7 +13,9 @@ module.exports = {
       "chiefComplaints",
       "Departments",
       "ManageConsentForm",
+      "manageInsurance",
       "generalSettings",
+      "emailTemplate",
     ],
   },
 };

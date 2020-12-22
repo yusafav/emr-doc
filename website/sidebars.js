@@ -11,6 +11,7 @@ module.exports = {
       "Departments",
       "ManageConsentForm",
       "generalSettings",
+      "hl7Listeners",
     ],
   },
 };

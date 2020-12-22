@@ -10,6 +10,7 @@ module.exports = {
       "drugs",
       "ManageConsentForm",
       "generalSettings",
+      "emailTemplate",
     ],
   },
 };

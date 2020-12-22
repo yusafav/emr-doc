@@ -26,13 +26,16 @@ User details include:
 - Actions:It includes two actions
   - ##### Edit
     It allows the admin to edit the user details.The admin can edit the following fields of the user:
-    - `user type`,`Department`,`First Name`,`Last Name`,`Gender`,`Date of Birth`,`Primary Contact No`,`Secondary Contact Number`,`Consultation Time (Minutes)`,`Start Time`,`End Time`,`Consultation Fee`,`Privileges`,`Active Status`
+    - `user type`,`Department`,`First Name`,`Last Name`,`Gender`,`Date of Birth`,`Primary Contact No`,`Secondary Contact Number`,`Consultation Time (Minutes)`,`Start Time`,`End Time`,`Consultation Fee`,`Privileges`,`Active Status`.
+
+
 ![edit user](assets/userManagement/editUser.png)
 
   - ##### Delete
     It deletes the user permanently.
     - On Clicking the delete icon a confirmation modal will be displayed before deleting the user permanently.
     - After confirming the delete action the deleted user will not be displayed no longer in the user table.
+    
 ![delete user](assets/userManagement/deleteUser.png)
 
 ## Create New User Role

@@ -8,7 +8,6 @@ module.exports = {
       "observations",
       "dictionary",
       "drugs",
-      "Departments",
       "ManageConsentForm",
       "generalSettings",
     ],

@@ -11,6 +11,7 @@ module.exports = {
       "manageinsurance",
       "laboratory",
       "chiefComplaints",
+      "Departments",
       "ManageConsentForm",
       "generalSettings",
     ],

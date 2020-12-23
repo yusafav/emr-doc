@@ -12,26 +12,26 @@ export default {
     navbar: {
       title: "Meditagg",
       logo: {
-        alt: "My Site Logo",
-        src: "img/logo.svg",
+        alt: "Meditagg Logo",
+        src: "img/meditaggLogo.png",
       },
       items: [
-        {
-          to: "docs/",
-          activeBasePath: "docs",
-          label: "Docs",
-          position: "left",
-        },
-        {
-          to: "blog",
-          label: "Blog",
-          position: "left",
-        },
-        {
-          href: "https://github.com/facebook/docusaurus",
-          label: "GitHub",
-          position: "right",
-        },
+        // {
+        //   to: "docs/",
+        //   activeBasePath: "docs",
+        //   label: "Docs",
+        //   position: "left",
+        // },
+        // {
+        //   to: "blog",
+        //   label: "Blog",
+        //   position: "left",
+        // },
+        // {
+        //   href: "https://github.com/facebook/docusaurus",
+        //   label: "GitHub",
+        //   position: "right",
+        // },
       ],
       hideOnScroll: false,
     },

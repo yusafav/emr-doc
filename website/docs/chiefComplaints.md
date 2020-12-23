@@ -22,16 +22,16 @@ Lists the chief complaints which appears as one of the field in the examination 
       - `Name` : It is the name of the chief complaint.
       - `Department` : It is the name of the department to which the compalint belongs.
 
-      ![Edit complaint](assets/chiefComplaints/edit_complaint.png)
+      ![Edit complaint](assets/chiefComplaints/chief_complaints_edit.png)
 
   - #### Delete:
 
     - On Clicking the delete icon a confirmation modal will be displayed before deleting the chief complaint permanently.
     - After confirming the delete action the deleted chief complaint will no longer be displayed in the application.
 
-    ![Delete complaint](assets/chiefComplaints/delete_complaint.png)
+    ![Delete complaint](assets/chiefComplaints/chief_complaints_delete.png)
 
 ## Create New Chief Complaint
 
 On clicking the `Add New` button a modal will be opened with same [fields](#fields) as the edit modal.
-![Add new complaints](assets/chiefComplaints/new_complaint.png)
+![Add new complaints](assets/chiefComplaints/chief_complaints_new.png)

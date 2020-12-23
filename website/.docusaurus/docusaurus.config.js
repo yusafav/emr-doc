@@ -15,79 +15,79 @@ export default {
         alt: "Meditagg",
         src: "img/meditaggLogo.png",
       },
-      items: [
-        // {
-        //   to: "docs/",
-        //   activeBasePath: "docs",
-        //   label: "Docs",
-        //   position: "left",
-        // },
-        // {
-        //   to: "blog",
-        //   label: "Blog",
-        //   position: "left",
-        // },
-        // {
-        //   href: "https://github.com/facebook/docusaurus",
-        //   label: "GitHub",
-        //   position: "right",
-        // },
+      "items": [
+        {
+          "to": "docs/",
+          "activeBasePath": "docs",
+          "label": "Docs",
+          "position": "left"
+        },
+        {
+          "to": "blog",
+          "label": "Blog",
+          "position": "left"
+        },
+        {
+          "href": "https://github.com/facebook/docusaurus",
+          "label": "GitHub",
+          "position": "right"
+        }
       ],
-      hideOnScroll: false,
+      "hideOnScroll": false
     },
     footer: {
       style: "dark",
       copyright: "Copyright © 2020 Meditagg.",
       links: [],
     },
-    colorMode: {
-      defaultMode: "light",
-      disableSwitch: false,
-      respectPrefersColorScheme: false,
-      switchConfig: {
-        darkIcon: "🌜",
-        darkIconStyle: {},
-        lightIcon: "🌞",
-        lightIconStyle: {},
-      },
+    "colorMode": {
+      "defaultMode": "light",
+      "disableSwitch": false,
+      "respectPrefersColorScheme": false,
+      "switchConfig": {
+        "darkIcon": "🌜",
+        "darkIconStyle": {},
+        "lightIcon": "🌞",
+        "lightIconStyle": {}
+      }
     },
-    docs: {
-      versionPersistence: "localStorage",
+    "docs": {
+      "versionPersistence": "localStorage"
     },
-    metadatas: [],
-    prism: {
-      additionalLanguages: [],
+    "metadatas": [],
+    "prism": {
+      "additionalLanguages": []
     },
-    hideableSidebar: false,
+    "hideableSidebar": false
   },
-  presets: [
+  "presets": [
     [
       "@docusaurus/preset-classic",
       {
-        docs: {
-          sidebarPath:
-            "/home/greeshma/workspace/emr-docusaurus/website/sidebars.js",
+        "docs": {
+          "sidebarPath": "/home/dxuser/Desktop/emr-docusaurus/website/sidebars.js"
         },
-        blog: {
-          showReadingTime: true,
+        "blog": {
+          "showReadingTime": true
         },
-        theme: {
-          customCss:
-            "/home/greeshma/workspace/emr-docusaurus/website/src/css/custom.css",
-        },
-      },
-    ],
+        "theme": {
+          "customCss": "/home/dxuser/Desktop/emr-docusaurus/website/src/css/custom.css"
+        }
+      }
+    ]
   ],
-  baseUrlIssueBanner: true,
-  i18n: {
-    defaultLocale: "en",
-    locales: ["en"],
-    localeConfigs: {},
+  "baseUrlIssueBanner": true,
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en"
+    ],
+    "localeConfigs": {}
   },
-  onDuplicateRoutes: "warn",
-  customFields: {},
-  plugins: [],
-  themes: [],
-  titleDelimiter: "|",
-  noIndex: false,
+  "onDuplicateRoutes": "warn",
+  "customFields": {},
+  "plugins": [],
+  "themes": [],
+  "titleDelimiter": "|",
+  "noIndex": false
 };

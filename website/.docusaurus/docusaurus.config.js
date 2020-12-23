@@ -5,7 +5,7 @@ export default {
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  favicon: "img/meditaggFavIcon.ico",
   organizationName: "facebook",
   projectName: "docusaurus",
   themeConfig: {

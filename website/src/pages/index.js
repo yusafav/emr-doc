@@ -9,7 +9,7 @@ import styles from "./styles.module.css";
 const features = [
   {
     title: "Admin",
-    imageUrl: "img/undraw_docusaurus_mountain.svg",
+    imageUrl: "img/admin.svg",
     description: (
       <>
         The Admin can manage the users, permissions for handling different
@@ -19,7 +19,7 @@ const features = [
   },
   {
     title: "HL7 Messsages",
-    imageUrl: "img/undraw_docusaurus_tree.svg",
+    imageUrl: "img/messages.jpg",
     description: (
       <>
         HL7 Messages are used to transfer electronic data between disparate

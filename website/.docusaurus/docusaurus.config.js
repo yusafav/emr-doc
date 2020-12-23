@@ -1,6 +1,6 @@
 export default {
   title: "Meditagg",
-  tagline: "The tagline of my site",
+  tagline: "Hospital And Clinic Emr System",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
   onBrokenLinks: "throw",

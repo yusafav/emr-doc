@@ -26,7 +26,7 @@ Radiology section deals with the radiology tests available for the patient.
       - On Clicking the delete icon a confirmation modal will be displayed before deleting the scan type permanently.
       - After confirming the delete action no scanning test will be availble for the deleted body part.
 
-    ![Radiology main page](assets/radiology/radio-1.png)
+    ![Radiology main page](assets/radiology/radiology-1.png)
 
 ## Create New Human Body Part
 
@@ -34,15 +34,15 @@ Radiology section deals with the radiology tests available for the patient.
 - In the modal add the name of the human body part in the `Type` field.
 - Click on the `Create` button to add the new human body part.
 
-![Add body part](assets/radiology/radio-temp.png)
+![Add body part](assets/radiology/radiology-2.png)
 
-![Add body part 2](assets/radiology/radio-2.png)
+![Add body part 2](assets/radiology/radiology-3.png)
 
-## Listing the Imaging Technologies
+## Listing The Imaging Technologies
 
 - This section lists the different type of imaging technologies available for the selected human body part.
 
-![Imaging techniques](assets/radiology/radio-3.png)
+![Imaging techniques](assets/radiology/radiology-4.png)
 
 - The table contains:
 
@@ -54,7 +54,7 @@ Radiology section deals with the radiology tests available for the patient.
     - #### Manage Tests
       - It includes the list of different type of imaging technologies .
 
-      ![Imaging techniques within](assets/radiology/radio-4.png)
+      ![Imaging techniques within](assets/radiology/radiology-5.png)
 
     - #### Edit
 
@@ -62,13 +62,13 @@ Radiology section deals with the radiology tests available for the patient.
       - The admin can either edit the imaging technology name in the `Type` field and save it .
 
   
-      ![Imaging techniques edit](assets/radiology/radio-5.png)
+      ![Imaging techniques edit](assets/radiology/radiology-10.png)
 
     - #### Delete
       - On Clicking the delete icon a confirmation modal will be displayed before deleting the imaging technology permanently.
       - After confirming the delete action the deleted imaging technology will no longer be availble .
 
-      ![Delete imaging techniques](assets/radiology/radio-temp-2.png)
+      ![Delete imaging techniques](assets/radiology/radiology-11.png)
 
 
     
@@ -78,9 +78,9 @@ Radiology section deals with the radiology tests available for the patient.
 - In the modal add the name of the new imaging technology in the `Type` field.
 - Click on the `Create` button to add the new imaging technology.
 
-![Adding imaging technique](assets/radiology/radio-temp-3.png)
+![Adding imaging technique](assets/radiology/radiology-8.png)
 
-![Adding Imaging techniques 2](assets/radiology/radio-2.png)
+![Adding Imaging techniques 2](assets/radiology/radiology-3.png)
 
 
 
@@ -88,7 +88,7 @@ Radiology section deals with the radiology tests available for the patient.
 
 - This section displays the list of imaging tests.
 
-![Imaging techniques](assets/radiology/radio-6.png)
+![Imaging techniques](assets/radiology/radiology-5.png)
 
 - The table contains:
 
@@ -100,13 +100,13 @@ Radiology section deals with the radiology tests available for the patient.
       - On clicking the edit icon the edit modal will be opened.
       - The admin can either edit the test name in the `Type` field and save it .
 
-    ![Edit](assets/radiology/radio-7.png)
+    ![Edit](assets/radiology/radiology-6.png)
 
     - #### Delete
       - On Clicking the delete icon a confirmation modal will be displayed before deleting the test permanently.
       - After confirming the delete action the imaging test will no longer be availble.
 
-    ![Delete](assets/radiology/radio-8.png)
+    ![Delete](assets/radiology/radiology-7.png)
 
 
 ## Create New Imaging Test
@@ -115,14 +115,14 @@ Radiology section deals with the radiology tests available for the patient.
 - In the modal add the name of the new imaging test in the `Type` field.
 - Click on the `Create` button to add the new imaging test.
 
-![New test](assets/radiology/radio-9.png)
+![New test](assets/radiology/radiology-13.png)
 
-![New test 2](assets/radiology/radio-2.png)
+![New test 2](assets/radiology/radiology-14.png)
 
 ## UI Changes
 
 - The updations made by the admin in the radiology section will be visible to the doctor in his page under the radiology test section.
 
-![UI change](assets/radiology/radio-10.png)
+![UI change](assets/radiology/radiology-15.png)
 
 

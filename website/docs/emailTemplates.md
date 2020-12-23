@@ -19,7 +19,7 @@ Email Template section is to send email preview to the users.This section consis
   - `Footer` : It is the footer portion of the email preview.
 
   Preview option is available for displaying sample preview of the New User Template.
-  ![Preview of New User Template](assets/emailTemplateImages/preview_new_user_template.png)
+  ![Preview of New User Template](assets/emailTemplateImages/new_user_template.png)
 
   Once a slot is booked for a patient by receptionist, the email template send to user is as follows:
   ![Email Template](assets/emailTemplateImages/new_patient_email_template.png)
@@ -31,4 +31,4 @@ Email Template section is to send email preview to the users.This section consis
 
   Preview option is available for displaying sample preview of the Reset Password Template.
 
-  ![Preview of Reset Password Template](assets/emailTemplateImages/preview_reset_password_template.png)
+  ![Preview of Reset Password Template](assets/emailTemplateImages/reset_password_template.png)

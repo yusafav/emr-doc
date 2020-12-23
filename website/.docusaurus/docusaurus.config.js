@@ -1,37 +1,37 @@
 export default {
-  title: "My Site",
-  tagline: "The tagline of my site",
+  title: "Meditagg",
+  tagline: "Hospital and Clinical Emr Records",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  favicon: "img/meditaggFavIcon.ico",
   organizationName: "facebook",
   projectName: "docusaurus",
   themeConfig: {
     navbar: {
-      title: "My Site",
+      title: "Meditagg",
       logo: {
-        alt: "My Site Logo",
-        src: "img/logo.svg",
+        alt: "Meditagg",
+        src: "img/meditaggLogo.png",
       },
       items: [
-        {
-          to: "docs/",
-          activeBasePath: "docs",
-          label: "Docs",
-          position: "left",
-        },
-        {
-          to: "blog",
-          label: "Blog",
-          position: "left",
-        },
-        {
-          href: "https://github.com/facebook/docusaurus",
-          label: "GitHub",
-          position: "right",
-        },
+        // {
+        //   to: "docs/",
+        //   activeBasePath: "docs",
+        //   label: "Docs",
+        //   position: "left",
+        // },
+        // {
+        //   to: "blog",
+        //   label: "Blog",
+        //   position: "left",
+        // },
+        // {
+        //   href: "https://github.com/facebook/docusaurus",
+        //   label: "GitHub",
+        //   position: "right",
+        // },
       ],
       hideOnScroll: false,
     },

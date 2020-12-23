@@ -10,18 +10,22 @@ HL7 (Health Level Seven) is a set of standards, formats, and definitions for the
 
 Listeners details include:
 
-- Facility Name : It is the name of the facility.
-- Application Name :It is the name of the test.
-- Ip Address : It is the IP address of the
-- Port : It is the port of the
-- Receiver Namespace Id : It is the namespace Id of the receiver.
-- Receiver Universal Id :It is universal Id of the receiver.
-- Actions:It includes two actions
+- `Facility Name` : It is the name of the facility.
+- `Application Name` :It is the name of the application.
+- `Ip Address` : It is the IP address of the application.
+- `Port` : It is the port of the application.
+- `Receiver Namespace Id` : It is the namespace Id of the receiver.
+- `Receiver Universal Id` :It is universal Id of the receiver.
+- `Actions`:It includes two actions
 
   - ##### Edit
+
     It allows the admin to edit the listener details.The admin can edit the following fields of the HL7 Listener:
+
     - `Facility Name`,`Application Name`,`Ip Address`,`Port`,`Receiver Namespace Id`,`Receiver Universal Id`.
-      ![hl7](assets/dictionary/editHL7.png)
+
+      ![hl7](assets/hl7/editHl7.png)
+
   - ##### Delete
 
     It deletes the Listener permanently.
@@ -29,6 +33,6 @@ Listeners details include:
     - On Clicking the delete icon, a confirmation modal will be displayed before deleting the listener permanently.
     - After confirming the delete action the deleted listener will not be displayed no longer in the user table.
 
-      ![hl7](assets/dictionary/deleteHl7.png)
+      ![hl7](assets/hl7/deleteHl7.png)
 
-  ![hl7](assets/dictionary/hl7Lists.png)
+  ![hl7](assets/hl7/hl7Lists.png)

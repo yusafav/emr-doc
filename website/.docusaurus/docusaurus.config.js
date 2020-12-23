@@ -65,13 +65,13 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/home/dxuser/Desktop/emr-docusaurus/website/sidebars.js"
+          "sidebarPath": "/home/dxuser/emr-docusaurus/website/sidebars.js"
         },
         "blog": {
           "showReadingTime": true
         },
         "theme": {
-          "customCss": "/home/dxuser/Desktop/emr-docusaurus/website/src/css/custom.css"
+          "customCss": "/home/dxuser/emr-docusaurus/website/src/css/custom.css"
         }
       }
     ]

@@ -1,5 +1,5 @@
 export default {
-  title: "My Site2",
+  title: "Meditagg",
   tagline: "The tagline of my site",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
@@ -10,7 +10,7 @@ export default {
   projectName: "docusaurus",
   themeConfig: {
     navbar: {
-      title: "My Site",
+      title: "Meditagg",
       logo: {
         alt: "My Site Logo",
         src: "img/logo.svg",

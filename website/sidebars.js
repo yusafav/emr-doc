@@ -14,7 +14,7 @@ module.exports = {
       "radiology",
       "chiefComplaints",
       "ManageConsentForm",
-      "generalSettings",
+      "hl7Listeners",
       "emailTemplate",
       "generalSettings",
     ],

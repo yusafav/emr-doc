@@ -11,8 +11,8 @@
   "sidebar_label": "Email Template",
   "sidebar": "someSidebar",
   "previous": {
-    "title": "General Settings",
-    "permalink": "/docs/generalSettings"
+    "title": "HL7 Listeners",
+    "permalink": "/docs/hl7Listeners"
   },
   "next": {
     "title": "General Settings",

@@ -14,7 +14,7 @@
     "permalink": "/docs/chiefComplaints"
   },
   "next": {
-    "title": "General Settings",
-    "permalink": "/docs/generalSettings"
+    "title": "HL7 Listeners",
+    "permalink": "/docs/hl7Listeners"
   }
 }

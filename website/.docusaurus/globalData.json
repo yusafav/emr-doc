@@ -46,7 +46,8 @@
             },
             {
               "id": "hl7Listeners",
-              "path": "/docs/hl7Listeners"
+              "path": "/docs/hl7Listeners",
+              "sidebar": "someSidebar"
             },
             {
               "id": "intro",

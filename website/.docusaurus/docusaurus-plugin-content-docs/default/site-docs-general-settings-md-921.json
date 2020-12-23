@@ -10,10 +10,6 @@
   "version": "current",
   "sidebar": "someSidebar",
   "previous": {
-    "title": "Manage Consent Form",
-    "permalink": "/docs/ManageConsentForm"
-  },
-  "next": {
     "title": "Email Template",
     "permalink": "/docs/emailTemplate"
   }

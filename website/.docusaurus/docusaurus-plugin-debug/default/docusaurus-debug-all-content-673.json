@@ -80,7 +80,7 @@
                   },
                   {
                     "type": "doc",
-                    "id": "generalSettings"
+                    "id": "hl7Listeners"
                   },
                   {
                     "type": "doc",
@@ -101,6 +101,7 @@
             "/docs/drugs": "someSidebar",
             "/docs/emailTemplate": "someSidebar",
             "/docs/generalSettings": "someSidebar",
+            "/docs/hl7Listeners": "someSidebar",
             "/docs/intro": "someSidebar",
             "/docs/": "someSidebar",
             "/docs/laboratory": "someSidebar",
@@ -220,8 +221,8 @@
               "sidebar_label": "Email Template",
               "sidebar": "someSidebar",
               "previous": {
-                "title": "General Settings",
-                "permalink": "/docs/generalSettings"
+                "title": "HL7 Listeners",
+                "permalink": "/docs/hl7Listeners"
               },
               "next": {
                 "title": "General Settings",
@@ -240,10 +241,6 @@
               "version": "current",
               "sidebar": "someSidebar",
               "previous": {
-                "title": "Manage Consent Form",
-                "permalink": "/docs/ManageConsentForm"
-              },
-              "next": {
                 "title": "Email Template",
                 "permalink": "/docs/emailTemplate"
               }
@@ -258,7 +255,16 @@
               "slug": "/hl7Listeners",
               "permalink": "/docs/hl7Listeners",
               "version": "current",
-              "sidebar_label": "HL7 Listeners"
+              "sidebar_label": "HL7 Listeners",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Manage Consent Form",
+                "permalink": "/docs/ManageConsentForm"
+              },
+              "next": {
+                "title": "Email Template",
+                "permalink": "/docs/emailTemplate"
+              }
             },
             {
               "unversionedId": "intro",
@@ -331,8 +337,8 @@
                 "permalink": "/docs/chiefComplaints"
               },
               "next": {
-                "title": "General Settings",
-                "permalink": "/docs/generalSettings"
+                "title": "HL7 Listeners",
+                "permalink": "/docs/hl7Listeners"
               }
             },
             {

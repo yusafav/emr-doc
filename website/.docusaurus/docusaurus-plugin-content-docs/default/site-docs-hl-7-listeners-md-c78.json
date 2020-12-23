@@ -8,5 +8,14 @@
   "slug": "/hl7Listeners",
   "permalink": "/docs/hl7Listeners",
   "version": "current",
-  "sidebar_label": "HL7 Listeners"
+  "sidebar_label": "HL7 Listeners",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Manage Consent Form",
+    "permalink": "/docs/ManageConsentForm"
+  },
+  "next": {
+    "title": "Email Template",
+    "permalink": "/docs/emailTemplate"
+  }
 }

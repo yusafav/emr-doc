@@ -84,8 +84,8 @@
           },
           {
             "type": "link",
-            "label": "General Settings",
-            "href": "/docs/generalSettings"
+            "label": "HL7 Listeners",
+            "href": "/docs/hl7Listeners"
           },
           {
             "type": "link",
@@ -108,6 +108,7 @@
     "/docs/drugs": "someSidebar",
     "/docs/emailTemplate": "someSidebar",
     "/docs/generalSettings": "someSidebar",
+    "/docs/hl7Listeners": "someSidebar",
     "/docs/intro": "someSidebar",
     "/docs/": "someSidebar",
     "/docs/laboratory": "someSidebar",

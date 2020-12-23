@@ -1,0 +1,625 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/home/greeshma/workspace/emr-docusaurus/website/sidebars.js",
+          "docsDirPath": "/home/greeshma/workspace/emr-docusaurus/website/docs",
+          "docsDirPathLocalized": "/home/greeshma/workspace/emr-docusaurus/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "mainDocId": "intro",
+          "sidebars": {
+            "someSidebar": [
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Getting Started",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "intro"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Admin User Functionalities",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "userRoles"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "userManagement"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Departments"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "observations"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "drugs"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "manageSections"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "manageInsurance"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "laboratory"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "radiology"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "chiefComplaints"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ManageConsentForm"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "generalSettings"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "emailTemplate"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "generalSettings"
+                  }
+                ]
+              }
+            ]
+          },
+          "permalinkToSidebar": {
+            "/docs/chiefComplaints": "someSidebar",
+            "/docs/Departments": "someSidebar",
+            "/docs/drugs": "someSidebar",
+            "/docs/emailTemplate": "someSidebar",
+            "/docs/generalSettings": "someSidebar",
+            "/docs/intro": "someSidebar",
+            "/docs/": "someSidebar",
+            "/docs/laboratory": "someSidebar",
+            "/docs/ManageConsentForm": "someSidebar",
+            "/docs/manageInsurance": "someSidebar",
+            "/docs/manageSections": "someSidebar",
+            "/docs/observations": "someSidebar",
+            "/docs/radiology": "someSidebar",
+            "/docs/userManagement": "someSidebar",
+            "/docs/userRoles": "someSidebar"
+          },
+          "docs": [
+            {
+              "unversionedId": "chiefComplaints",
+              "id": "chiefComplaints",
+              "isDocsHomePage": false,
+              "title": "Chief Complaints",
+              "description": "Listing",
+              "source": "@site/docs/chiefComplaints.md",
+              "slug": "/chiefComplaints",
+              "permalink": "/docs/chiefComplaints",
+              "version": "current",
+              "sidebar_label": "Chief Complaints",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Radiology",
+                "permalink": "/docs/radiology"
+              },
+              "next": {
+                "title": "Manage Consent Form",
+                "permalink": "/docs/ManageConsentForm"
+              }
+            },
+            {
+              "unversionedId": "Departments",
+              "id": "Departments",
+              "isDocsHomePage": false,
+              "title": "Departments",
+              "description": "Displays the departments in a hospital.",
+              "source": "@site/docs/departments.md",
+              "slug": "/Departments",
+              "permalink": "/docs/Departments",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "User Management",
+                "permalink": "/docs/userManagement"
+              },
+              "next": {
+                "title": "Observations",
+                "permalink": "/docs/observations"
+              }
+            },
+            {
+              "unversionedId": "dictionary",
+              "id": "dictionary",
+              "isDocsHomePage": false,
+              "title": "Dictionary",
+              "description": "Dictionaries are the application meta datas which are used as the dropdowns through out the application like disease , allergy , citizenship , email type , generic codes , citizenship , primary languages , specialities etc..",
+              "source": "@site/docs/dictionary.md",
+              "slug": "/dictionary",
+              "permalink": "/docs/dictionary",
+              "version": "current",
+              "sidebar_label": "Dictionary"
+            },
+            {
+              "unversionedId": "doc4",
+              "id": "doc4",
+              "isDocsHomePage": false,
+              "title": "Document Number 4",
+              "description": "This is a link to another document. This is a link to an external page.",
+              "source": "@site/docs/doc4.md",
+              "slug": "/doc4",
+              "permalink": "/docs/doc4",
+              "version": "current"
+            },
+            {
+              "unversionedId": "drugs",
+              "id": "drugs",
+              "isDocsHomePage": false,
+              "title": "Drugs",
+              "description": "Drugs are the medicines prescribed by the doctor while examining the patient.",
+              "source": "@site/docs/drugs.md",
+              "slug": "/drugs",
+              "permalink": "/docs/drugs",
+              "version": "current",
+              "sidebar_label": "Drugs",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Observations",
+                "permalink": "/docs/observations"
+              },
+              "next": {
+                "title": "Manage Sections",
+                "permalink": "/docs/manageSections"
+              }
+            },
+            {
+              "unversionedId": "emailTemplate",
+              "id": "emailTemplate",
+              "isDocsHomePage": false,
+              "title": "Email Template",
+              "description": "Email Template section is to send email preview to the users.This section consists of 2 email templates:",
+              "source": "@site/docs/emailTemplates.md",
+              "slug": "/emailTemplate",
+              "permalink": "/docs/emailTemplate",
+              "version": "current",
+              "sidebar_label": "Email Template",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "General Settings",
+                "permalink": "/docs/generalSettings"
+              },
+              "next": {
+                "title": "General Settings",
+                "permalink": "/docs/generalSettings"
+              }
+            },
+            {
+              "unversionedId": "generalSettings",
+              "id": "generalSettings",
+              "isDocsHomePage": false,
+              "title": "General Settings",
+              "description": "This option gives the admin the ability to change the logo, theme, cover photo and set the email",
+              "source": "@site/docs/general_settings.md",
+              "slug": "/generalSettings",
+              "permalink": "/docs/generalSettings",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Manage Consent Form",
+                "permalink": "/docs/ManageConsentForm"
+              },
+              "next": {
+                "title": "Email Template",
+                "permalink": "/docs/emailTemplate"
+              }
+            },
+            {
+              "unversionedId": "hl7Listeners",
+              "id": "hl7Listeners",
+              "isDocsHomePage": false,
+              "title": "HL7 Listeners",
+              "description": "HL7 (Health Level Seven) is a set of standards, formats, and definitions for the exchange, integration, sharing, and retrieval of electronic health information. HL7 has compiled a collection of message formats and related clinical standards that define an ideal presentation of clinical information. HL7 also promotes global interoperability in healthcare IT by providing guidance about how to implement its standards.",
+              "source": "@site/docs/hl7Listeners.md",
+              "slug": "/hl7Listeners",
+              "permalink": "/docs/hl7Listeners",
+              "version": "current",
+              "sidebar_label": "HL7 Listeners"
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "isDocsHomePage": false,
+              "title": 222,
+              "description": "Overview",
+              "source": "@site/docs/doc1.md",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "version": "current",
+              "sidebar_label": "Getting Started",
+              "sidebar": "someSidebar",
+              "next": {
+                "title": "User Roles",
+                "permalink": "/docs/userRoles"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "isDocsHomePage": false,
+              "title": "Introduction",
+              "description": "Overview",
+              "source": "@site/docs/introduction.md",
+              "slug": "/",
+              "permalink": "/docs/",
+              "version": "current",
+              "sidebar_label": "Getting Started",
+              "sidebar": "someSidebar",
+              "next": {
+                "title": "User Roles",
+                "permalink": "/docs/userRoles"
+              }
+            },
+            {
+              "unversionedId": "laboratory",
+              "id": "laboratory",
+              "isDocsHomePage": false,
+              "title": "Laboratory",
+              "description": "Laboratory section deals with the lab tests available for the patient.",
+              "source": "@site/docs/laboratory.md",
+              "slug": "/laboratory",
+              "permalink": "/docs/laboratory",
+              "version": "current",
+              "sidebar_label": "Laboratory",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Manage Insurance",
+                "permalink": "/docs/manageInsurance"
+              },
+              "next": {
+                "title": "Radiology",
+                "permalink": "/docs/radiology"
+              }
+            },
+            {
+              "unversionedId": "ManageConsentForm",
+              "id": "ManageConsentForm",
+              "isDocsHomePage": false,
+              "title": "Manage Consent Form",
+              "description": "Manage Consent Form section displays the list of consent forms in a table.",
+              "source": "@site/docs/manageConsentForm.md",
+              "slug": "/ManageConsentForm",
+              "permalink": "/docs/ManageConsentForm",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Chief Complaints",
+                "permalink": "/docs/chiefComplaints"
+              },
+              "next": {
+                "title": "General Settings",
+                "permalink": "/docs/generalSettings"
+              }
+            },
+            {
+              "unversionedId": "manageInsurance",
+              "id": "manageInsurance",
+              "isDocsHomePage": false,
+              "title": "Manage Insurance",
+              "description": "This option gives the admin to add a new insurance scheme as well as update and delete an existing insurance scheme.",
+              "source": "@site/docs/manageInsurance.md",
+              "slug": "/manageInsurance",
+              "permalink": "/docs/manageInsurance",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Manage Sections",
+                "permalink": "/docs/manageSections"
+              },
+              "next": {
+                "title": "Laboratory",
+                "permalink": "/docs/laboratory"
+              }
+            },
+            {
+              "unversionedId": "manageSections",
+              "id": "manageSections",
+              "isDocsHomePage": false,
+              "title": "Manage Sections",
+              "description": "These are the sections which will be displayed in the side bar of different screens based on the roles and permissions.",
+              "source": "@site/docs/manageSections.md",
+              "slug": "/manageSections",
+              "permalink": "/docs/manageSections",
+              "version": "current",
+              "sidebar_label": "Manage Sections",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Drugs",
+                "permalink": "/docs/drugs"
+              },
+              "next": {
+                "title": "Manage Insurance",
+                "permalink": "/docs/manageInsurance"
+              }
+            },
+            {
+              "unversionedId": "mdx",
+              "id": "mdx",
+              "isDocsHomePage": false,
+              "title": "Powered by MDX",
+              "description": "You can write JSX and use React components within your Markdown thanks to MDX.",
+              "source": "@site/docs/mdx.md",
+              "slug": "/mdx",
+              "permalink": "/docs/mdx",
+              "version": "current"
+            },
+            {
+              "unversionedId": "observations",
+              "id": "observations",
+              "isDocsHomePage": false,
+              "title": "Observations",
+              "description": "These are the observations about the patient added by the doctor in the examination section after submitting the examinations fields.",
+              "source": "@site/docs/observations.md",
+              "slug": "/observations",
+              "permalink": "/docs/observations",
+              "version": "current",
+              "sidebar_label": "Observations",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Departments",
+                "permalink": "/docs/Departments"
+              },
+              "next": {
+                "title": "Drugs",
+                "permalink": "/docs/drugs"
+              }
+            },
+            {
+              "unversionedId": "radiology",
+              "id": "radiology",
+              "isDocsHomePage": false,
+              "title": "Radiology",
+              "description": "Radiology section deals with the radiology tests available for the patient.",
+              "source": "@site/docs/radiology.md",
+              "slug": "/radiology",
+              "permalink": "/docs/radiology",
+              "version": "current",
+              "sidebar_label": "Radiology",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Laboratory",
+                "permalink": "/docs/laboratory"
+              },
+              "next": {
+                "title": "Chief Complaints",
+                "permalink": "/docs/chiefComplaints"
+              }
+            },
+            {
+              "unversionedId": "userManagement",
+              "id": "userManagement",
+              "isDocsHomePage": false,
+              "title": "User Management",
+              "description": "Listing the roles",
+              "source": "@site/docs/userManagement.md",
+              "slug": "/userManagement",
+              "permalink": "/docs/userManagement",
+              "version": "current",
+              "sidebar_label": "User Management",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "User Roles",
+                "permalink": "/docs/userRoles"
+              },
+              "next": {
+                "title": "Departments",
+                "permalink": "/docs/Departments"
+              }
+            },
+            {
+              "unversionedId": "userRoles",
+              "id": "userRoles",
+              "isDocsHomePage": false,
+              "title": "User Roles",
+              "description": "Displays the user roles,user permissions and status of the user which are necessary for accessing the functionalities provided by the application.",
+              "source": "@site/docs/userRoles.md",
+              "slug": "/userRoles",
+              "permalink": "/docs/userRoles",
+              "version": "current",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/docs/"
+              },
+              "next": {
+                "title": "User Management",
+                "permalink": "/docs/userManagement"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/blog/welcome",
+            "source": "@site/blog/2019-05-30-welcome.md",
+            "description": "Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!",
+            "date": "2019-05-30T00:00:00.000Z",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "title": "Welcome",
+            "readingTime": 0.175,
+            "truncated": false,
+            "nextItem": {
+              "title": "Hello",
+              "permalink": "/blog/hello-world"
+            }
+          }
+        },
+        {
+          "id": "hello-world",
+          "metadata": {
+            "permalink": "/blog/hello-world",
+            "source": "@site/blog/2019-05-29-hello-world.md",
+            "description": "Welcome to this blog. This blog is created with Docusaurus 2 alpha.",
+            "date": "2019-05-29T00:00:00.000Z",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "title": "Hello",
+            "readingTime": 0.12,
+            "truncated": true,
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Hola",
+              "permalink": "/blog/hola"
+            }
+          }
+        },
+        {
+          "id": "hola",
+          "metadata": {
+            "permalink": "/blog/hola",
+            "source": "@site/blog/2019-05-28-hola.md",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "title": "Hola",
+            "readingTime": 0.12,
+            "truncated": false,
+            "prevItem": {
+              "title": "Hello",
+              "permalink": "/blog/hello-world"
+            }
+          }
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 3,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          },
+          "items": [
+            "welcome",
+            "hello-world",
+            "hola"
+          ]
+        }
+      ],
+      "blogTags": {
+        "facebook": {
+          "name": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/blog/tags/facebook"
+        },
+        "hello": {
+          "name": "hello",
+          "items": [
+            "welcome",
+            "hello-world"
+          ],
+          "permalink": "/blog/tags/hello"
+        },
+        "docusaurus": {
+          "name": "docusaurus",
+          "items": [
+            "welcome",
+            "hello-world",
+            "hola"
+          ],
+          "permalink": "/blog/tags/docusaurus"
+        },
+        "hola": {
+          "name": "hola",
+          "items": [
+            "hola"
+          ],
+          "permalink": "/blog/tags/hola"
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

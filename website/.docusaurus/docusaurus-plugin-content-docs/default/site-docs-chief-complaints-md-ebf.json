@@ -1,0 +1,21 @@
+{
+  "unversionedId": "chiefComplaints",
+  "id": "chiefComplaints",
+  "isDocsHomePage": false,
+  "title": "Chief Complaints",
+  "description": "Listing",
+  "source": "@site/docs/chiefComplaints.md",
+  "slug": "/chiefComplaints",
+  "permalink": "/docs/chiefComplaints",
+  "version": "current",
+  "sidebar_label": "Chief Complaints",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Radiology",
+    "permalink": "/docs/radiology"
+  },
+  "next": {
+    "title": "Manage Consent Form",
+    "permalink": "/docs/ManageConsentForm"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "userManagement",
+  "id": "userManagement",
+  "isDocsHomePage": false,
+  "title": "User Management",
+  "description": "Listing the roles",
+  "source": "@site/docs/userManagement.md",
+  "slug": "/userManagement",
+  "permalink": "/docs/userManagement",
+  "version": "current",
+  "sidebar_label": "User Management",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "User Roles",
+    "permalink": "/docs/userRoles"
+  },
+  "next": {
+    "title": "Departments",
+    "permalink": "/docs/Departments"
+  }
+}

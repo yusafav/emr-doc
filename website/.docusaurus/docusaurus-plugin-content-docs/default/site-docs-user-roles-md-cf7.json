@@ -1,0 +1,20 @@
+{
+  "unversionedId": "userRoles",
+  "id": "userRoles",
+  "isDocsHomePage": false,
+  "title": "User Roles",
+  "description": "Displays the user roles,user permissions and status of the user which are necessary for accessing the functionalities provided by the application.",
+  "source": "@site/docs/userRoles.md",
+  "slug": "/userRoles",
+  "permalink": "/docs/userRoles",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "User Management",
+    "permalink": "/docs/userManagement"
+  }
+}

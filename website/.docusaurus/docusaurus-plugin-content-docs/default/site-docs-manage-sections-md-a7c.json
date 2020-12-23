@@ -1,0 +1,21 @@
+{
+  "unversionedId": "manageSections",
+  "id": "manageSections",
+  "isDocsHomePage": false,
+  "title": "Manage Sections",
+  "description": "These are the sections which will be displayed in the side bar of different screens based on the roles and permissions.",
+  "source": "@site/docs/manageSections.md",
+  "slug": "/manageSections",
+  "permalink": "/docs/manageSections",
+  "version": "current",
+  "sidebar_label": "Manage Sections",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Drugs",
+    "permalink": "/docs/drugs"
+  },
+  "next": {
+    "title": "Manage Insurance",
+    "permalink": "/docs/manageInsurance"
+  }
+}

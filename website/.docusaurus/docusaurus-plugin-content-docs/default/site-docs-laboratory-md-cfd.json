@@ -1,0 +1,21 @@
+{
+  "unversionedId": "laboratory",
+  "id": "laboratory",
+  "isDocsHomePage": false,
+  "title": "Laboratory",
+  "description": "Laboratory section deals with the lab tests available for the patient.",
+  "source": "@site/docs/laboratory.md",
+  "slug": "/laboratory",
+  "permalink": "/docs/laboratory",
+  "version": "current",
+  "sidebar_label": "Laboratory",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Manage Insurance",
+    "permalink": "/docs/manageInsurance"
+  },
+  "next": {
+    "title": "Radiology",
+    "permalink": "/docs/radiology"
+  }
+}

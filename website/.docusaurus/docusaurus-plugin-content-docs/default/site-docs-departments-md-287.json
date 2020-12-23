@@ -1,0 +1,20 @@
+{
+  "unversionedId": "Departments",
+  "id": "Departments",
+  "isDocsHomePage": false,
+  "title": "Departments",
+  "description": "Displays the departments in a hospital.",
+  "source": "@site/docs/departments.md",
+  "slug": "/Departments",
+  "permalink": "/docs/Departments",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "User Management",
+    "permalink": "/docs/userManagement"
+  },
+  "next": {
+    "title": "Observations",
+    "permalink": "/docs/observations"
+  }
+}

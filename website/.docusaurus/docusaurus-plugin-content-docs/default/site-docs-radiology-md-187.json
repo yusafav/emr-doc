@@ -1,0 +1,21 @@
+{
+  "unversionedId": "radiology",
+  "id": "radiology",
+  "isDocsHomePage": false,
+  "title": "Radiology",
+  "description": "Radiology section deals with the radiology tests available for the patient.",
+  "source": "@site/docs/radiology.md",
+  "slug": "/radiology",
+  "permalink": "/docs/radiology",
+  "version": "current",
+  "sidebar_label": "Radiology",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Laboratory",
+    "permalink": "/docs/laboratory"
+  },
+  "next": {
+    "title": "Chief Complaints",
+    "permalink": "/docs/chiefComplaints"
+  }
+}

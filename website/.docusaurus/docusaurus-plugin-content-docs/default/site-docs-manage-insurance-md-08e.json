@@ -1,0 +1,20 @@
+{
+  "unversionedId": "manageInsurance",
+  "id": "manageInsurance",
+  "isDocsHomePage": false,
+  "title": "Manage Insurance",
+  "description": "This option gives the admin to add a new insurance scheme as well as update and delete an existing insurance scheme.",
+  "source": "@site/docs/manageInsurance.md",
+  "slug": "/manageInsurance",
+  "permalink": "/docs/manageInsurance",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Manage Sections",
+    "permalink": "/docs/manageSections"
+  },
+  "next": {
+    "title": "Laboratory",
+    "permalink": "/docs/laboratory"
+  }
+}

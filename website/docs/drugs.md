@@ -5,7 +5,7 @@ sidebar_label: Drugs
 # slug: /
 ---
 
-Drugs are the medicines prescribed by the doctor.
+Drugs are the medicines prescribed by the doctor while examining the patient.
 
 ## Export
 
@@ -23,14 +23,19 @@ Drugs are the medicines prescribed by the doctor.
 
 ## Create New Drug
 
-User can create a new drugs by adding the details
+User can create a new drugs by adding the drug details in the modal displayed after clicking the `Create New Medicine`
 
 ###### Fields
 
-- `Drug Type` : It is the type of application meta data.
 - `Code` : It is the code of the meta datas ie the values which comes in the dropdowns in various screens.
-- `Text` : While adding new drug the admin can add a text for the new drug.
-- `Description` : Admin can add the description for the drug
+- `Drug Type` : It is the type of application meta data.
+- `Name` : While adding new drug the admin can add a text for the new drug.
+- `Dosage Form` : It is the form in which the drug is available to the patients like `Coated Tablets`, `Capsules` etc...
+- `Route Of Administration`: It is the route of administration of the drug.
+- `Descriptions`: It is the drug description.
+- `Strength` : It is the strength of the drug and it is numeric value.
+- `Volume` : It is the volume of the drug in numerical value.
+- `Created Date`: It is the date when the drug is added.
 - `Actions` : Two types of actions are available for each drug.
 
 ## Searching

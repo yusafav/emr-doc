@@ -1,0 +1,21 @@
+{
+  "unversionedId": "emailTemplate",
+  "id": "emailTemplate",
+  "isDocsHomePage": false,
+  "title": "Email Template",
+  "description": "Email Template section is to send email preview to the users.This section consists of 2 email templates:",
+  "source": "@site/docs/emailTemplates.md",
+  "slug": "/emailTemplate",
+  "permalink": "/docs/emailTemplate",
+  "version": "current",
+  "sidebar_label": "Email Template",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "General Settings",
+    "permalink": "/docs/generalSettings"
+  },
+  "next": {
+    "title": "General Settings",
+    "permalink": "/docs/generalSettings"
+  }
+}

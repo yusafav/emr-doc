@@ -14,8 +14,7 @@ module.exports = {
       "chiefComplaints",
       "ManageConsentForm",
       "generalSettings",
-      "emailTemplate",
-      "generalSettings",
+      "emailTemplate"
       
     ],
   },

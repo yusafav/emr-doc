@@ -1,7 +1,7 @@
 module.exports = {
   someSidebar: {
     "Getting Started": ["intro"],
-    "Admin Functionalities": [
+    "Admin User Functionalities": [
       "userRoles",
       "userManagement",
       "Departments",
@@ -14,8 +14,8 @@ module.exports = {
       "chiefComplaints",
       "ManageConsentForm",
       "generalSettings",
-      "emailTemplate"
-      
+      "emailTemplate",
+      "generalSettings",
     ],
   },
 };

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "observations",
+  "id": "observations",
+  "isDocsHomePage": false,
+  "title": "Observations",
+  "description": "These are the observations about the patient added by the doctor in the examination section after submitting the examinations fields.",
+  "source": "@site/docs/observations.md",
+  "slug": "/observations",
+  "permalink": "/docs/observations",
+  "version": "current",
+  "sidebar_label": "Observations",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Departments",
+    "permalink": "/docs/Departments"
+  },
+  "next": {
+    "title": "Drugs",
+    "permalink": "/docs/drugs"
+  }
+}

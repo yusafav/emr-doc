@@ -1,0 +1,17 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "Overview",
+  "source": "@site/docs/introduction.md",
+  "slug": "/",
+  "permalink": "/docs/",
+  "version": "current",
+  "sidebar_label": "Getting Started",
+  "sidebar": "someSidebar",
+  "next": {
+    "title": "User Roles",
+    "permalink": "/docs/userRoles"
+  }
+}

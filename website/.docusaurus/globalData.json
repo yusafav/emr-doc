@@ -1,0 +1,109 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "chiefComplaints",
+              "path": "/docs/chiefComplaints",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "Departments",
+              "path": "/docs/Departments",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "dictionary",
+              "path": "/docs/dictionary"
+            },
+            {
+              "id": "doc4",
+              "path": "/docs/doc4"
+            },
+            {
+              "id": "drugs",
+              "path": "/docs/drugs",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "emailTemplate",
+              "path": "/docs/emailTemplate",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "generalSettings",
+              "path": "/docs/generalSettings",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "hl7Listeners",
+              "path": "/docs/hl7Listeners"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "laboratory",
+              "path": "/docs/laboratory",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "ManageConsentForm",
+              "path": "/docs/ManageConsentForm",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "manageInsurance",
+              "path": "/docs/manageInsurance",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "manageSections",
+              "path": "/docs/manageSections",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "mdx",
+              "path": "/docs/mdx"
+            },
+            {
+              "id": "observations",
+              "path": "/docs/observations",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "radiology",
+              "path": "/docs/radiology",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "userManagement",
+              "path": "/docs/userManagement",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "userRoles",
+              "path": "/docs/userRoles",
+              "sidebar": "someSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "drugs",
+  "id": "drugs",
+  "isDocsHomePage": false,
+  "title": "Drugs",
+  "description": "Drugs are the medicines prescribed by the doctor while examining the patient.",
+  "source": "@site/docs/drugs.md",
+  "slug": "/drugs",
+  "permalink": "/docs/drugs",
+  "version": "current",
+  "sidebar_label": "Drugs",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Observations",
+    "permalink": "/docs/observations"
+  },
+  "next": {
+    "title": "Manage Sections",
+    "permalink": "/docs/manageSections"
+  }
+}

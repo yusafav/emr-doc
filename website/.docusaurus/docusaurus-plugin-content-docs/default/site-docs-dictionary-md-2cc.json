@@ -1,0 +1,12 @@
+{
+  "unversionedId": "dictionary",
+  "id": "dictionary",
+  "isDocsHomePage": false,
+  "title": "Dictionary",
+  "description": "Dictionaries are the application meta datas which are used as the dropdowns through out the application like disease , allergy , citizenship , email type , generic codes , citizenship , primary languages , specialities etc..",
+  "source": "@site/docs/dictionary.md",
+  "slug": "/dictionary",
+  "permalink": "/docs/dictionary",
+  "version": "current",
+  "sidebar_label": "Dictionary"
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "ManageConsentForm",
+  "id": "ManageConsentForm",
+  "isDocsHomePage": false,
+  "title": "Manage Consent Form",
+  "description": "Manage Consent Form section displays the list of consent forms in a table.",
+  "source": "@site/docs/manageConsentForm.md",
+  "slug": "/ManageConsentForm",
+  "permalink": "/docs/ManageConsentForm",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Chief Complaints",
+    "permalink": "/docs/chiefComplaints"
+  },
+  "next": {
+    "title": "General Settings",
+    "permalink": "/docs/generalSettings"
+  }
+}

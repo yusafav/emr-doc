@@ -1,0 +1,20 @@
+{
+  "unversionedId": "generalSettings",
+  "id": "generalSettings",
+  "isDocsHomePage": false,
+  "title": "General Settings",
+  "description": "This option gives the admin the ability to change the logo, theme, cover photo and set the email",
+  "source": "@site/docs/general_settings.md",
+  "slug": "/generalSettings",
+  "permalink": "/docs/generalSettings",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Manage Consent Form",
+    "permalink": "/docs/ManageConsentForm"
+  },
+  "next": {
+    "title": "Email Template",
+    "permalink": "/docs/emailTemplate"
+  }
+}

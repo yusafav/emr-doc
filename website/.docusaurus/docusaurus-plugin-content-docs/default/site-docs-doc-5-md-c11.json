@@ -1,0 +1,11 @@
+{
+  "unversionedId": "doc5",
+  "id": "doc5",
+  "isDocsHomePage": false,
+  "title": "Document Number 5",
+  "description": "This is a link to another document. This is a link to an external page.",
+  "source": "@site/docs/doc5.md",
+  "slug": "/doc5",
+  "permalink": "/docs/doc5",
+  "version": "current"
+}

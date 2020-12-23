@@ -1,0 +1,116 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "isLast": true,
+  "docsSidebars": {
+    "someSidebar": [
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "Getting Started",
+        "items": [
+          {
+            "type": "link",
+            "label": "Getting Started",
+            "href": "/docs/"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "Admin User Functionalities",
+        "items": [
+          {
+            "type": "link",
+            "label": "User Roles",
+            "href": "/docs/userRoles"
+          },
+          {
+            "type": "link",
+            "label": "User Management",
+            "href": "/docs/userManagement"
+          },
+          {
+            "type": "link",
+            "label": "Departments",
+            "href": "/docs/Departments"
+          },
+          {
+            "type": "link",
+            "label": "Observations",
+            "href": "/docs/observations"
+          },
+          {
+            "type": "link",
+            "label": "Drugs",
+            "href": "/docs/drugs"
+          },
+          {
+            "type": "link",
+            "label": "Manage Sections",
+            "href": "/docs/manageSections"
+          },
+          {
+            "type": "link",
+            "label": "Manage Insurance",
+            "href": "/docs/manageInsurance"
+          },
+          {
+            "type": "link",
+            "label": "Laboratory",
+            "href": "/docs/laboratory"
+          },
+          {
+            "type": "link",
+            "label": "Radiology",
+            "href": "/docs/radiology"
+          },
+          {
+            "type": "link",
+            "label": "Chief Complaints",
+            "href": "/docs/chiefComplaints"
+          },
+          {
+            "type": "link",
+            "label": "Manage Consent Form",
+            "href": "/docs/ManageConsentForm"
+          },
+          {
+            "type": "link",
+            "label": "General Settings",
+            "href": "/docs/generalSettings"
+          },
+          {
+            "type": "link",
+            "label": "Email Template",
+            "href": "/docs/emailTemplate"
+          },
+          {
+            "type": "link",
+            "label": "General Settings",
+            "href": "/docs/generalSettings"
+          }
+        ]
+      }
+    ]
+  },
+  "permalinkToSidebar": {
+    "/docs/chiefComplaints": "someSidebar",
+    "/docs/Departments": "someSidebar",
+    "/docs/drugs": "someSidebar",
+    "/docs/emailTemplate": "someSidebar",
+    "/docs/generalSettings": "someSidebar",
+    "/docs/intro": "someSidebar",
+    "/docs/": "someSidebar",
+    "/docs/laboratory": "someSidebar",
+    "/docs/ManageConsentForm": "someSidebar",
+    "/docs/manageInsurance": "someSidebar",
+    "/docs/manageSections": "someSidebar",
+    "/docs/observations": "someSidebar",
+    "/docs/radiology": "someSidebar",
+    "/docs/userManagement": "someSidebar",
+    "/docs/userRoles": "someSidebar"
+  }
+}

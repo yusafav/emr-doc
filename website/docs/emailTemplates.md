@@ -13,16 +13,18 @@ Email Template section is to send email preview to the users.This section consis
   ##### Fields
 
   - `Subject` : It is the subject of the email send to user.
-  - `Header` : It is the header content which is followed by patient name.
+  - `Header` : It is the header of the email template.
   - `Message` : It is the message which is shown under the header section in the email preview.
   - `Button Name` : It is the content to be displayed on the button.
-  - `Footer` : It is the footer portion of the email preview.
+  - `Footer` : It is the footer portion of the email template.
 
   Preview option is available for displaying sample preview of the New User Template.
-  ![Preview of New User Template](assets/emailTemplateImages/new_user_template.png)
 
-  Once a slot is booked for a patient by receptionist, the email template send to user is as follows:
-  ![Email Template](assets/emailTemplateImages/new_patient_email_template.png)
+  ![Preview of New User Template](assets/emailTemplateImages/newUSerPreview.png)
+
+  The email template send to the user is :
+
+  ![Email Template](assets/emailTemplateImages/emailTemplate.png)
 
 - ### Reset Password Template
 
@@ -31,4 +33,8 @@ Email Template section is to send email preview to the users.This section consis
 
   Preview option is available for displaying sample preview of the Reset Password Template.
 
-  ![Preview of Reset Password Template](assets/emailTemplateImages/reset_password_template.png)
+  ![Preview of Reset Password Template](assets/emailTemplateImages/resetPasswordPreview.png)
+
+  The email template send to the user is :
+
+  ![ Reset Password Template](assets/emailTemplateImages/reset.png)

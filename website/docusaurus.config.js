@@ -32,8 +32,8 @@ module.exports = {
     },
     footer: {
       style: "dark",
-     
-      copyright: `Copyright © ${new Date().getFullYear()} Emr.`,
+
+      copyright: `Copyright © ${new Date().getFullYear()} Meditagg.`,
     },
   },
   presets: [

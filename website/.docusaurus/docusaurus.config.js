@@ -1,19 +1,19 @@
 export default {
-  "title": "My Site",
-  "tagline": "The tagline of my site",
-  "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/",
-  "onBrokenLinks": "throw",
-  "onBrokenMarkdownLinks": "warn",
-  "favicon": "img/favicon.ico",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
-  "themeConfig": {
-    "navbar": {
-      "title": "My Site",
-      "logo": {
-        "alt": "My Site Logo",
-        "src": "img/logo.svg"
+  title: "Meditagg",
+  tagline: "Hospital and Clinical Emr Records",
+  url: "https://your-docusaurus-test-site.com",
+  baseUrl: "/",
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
+  favicon: "img/meditaggFavIcon.ico",
+  organizationName: "facebook",
+  projectName: "docusaurus",
+  themeConfig: {
+    navbar: {
+      title: "Meditagg",
+      logo: {
+        alt: "Meditagg",
+        src: "img/meditaggLogo.png",
       },
       "items": [
         {
@@ -35,10 +35,10 @@ export default {
       ],
       "hideOnScroll": false
     },
-    "footer": {
-      "style": "dark",
-      "copyright": "Copyright © 2020 Emr.",
-      "links": []
+    footer: {
+      style: "dark",
+      copyright: "Copyright © 2020 Meditagg.",
+      links: [],
     },
     "colorMode": {
       "defaultMode": "light",

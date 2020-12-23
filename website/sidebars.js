@@ -6,7 +6,6 @@ module.exports = {
       "userManagement",
       "Departments",
       "observations",
-      "dictionary",
       "drugs",
       "manageSections",
       "manageInsurance",
@@ -16,6 +15,8 @@ module.exports = {
       "ManageConsentForm",
       "generalSettings",
       "emailTemplate",
+      "generalSettings",
+      
     ],
   },
 };

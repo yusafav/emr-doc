@@ -1,5 +1,5 @@
 export default {
-  title: "My Site1",
+  title: "My Site2",
   tagline: "The tagline of my site",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",

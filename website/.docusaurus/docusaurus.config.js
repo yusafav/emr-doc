@@ -10,7 +10,7 @@ export default {
   projectName: "docusaurus",
   themeConfig: {
     navbar: {
-      title: "My Site",
+      title: "Meditagg",
       logo: {
         alt: "My Site Logo",
         src: "img/logo.svg",

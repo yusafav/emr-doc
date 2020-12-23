@@ -3,7 +3,7 @@
   "id": "intro",
   "isDocsHomePage": false,
   "title": "Introduction",
-  "description": "Overview",
+  "description": "<!-- ## Overview",
   "source": "@site/docs/introduction.md",
   "slug": "/",
   "permalink": "/docs/",

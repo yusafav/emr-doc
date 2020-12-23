@@ -8,9 +8,9 @@
           "versionPath": "/docs",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/dxuser/emr-docusaurus/website/sidebars.js",
-          "docsDirPath": "/home/dxuser/emr-docusaurus/website/docs",
-          "docsDirPathLocalized": "/home/dxuser/emr-docusaurus/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/home/greeshma/workspace/emr-docusaurus/website/sidebars.js",
+          "docsDirPath": "/home/greeshma/workspace/emr-docusaurus/website/docs",
+          "docsDirPathLocalized": "/home/greeshma/workspace/emr-docusaurus/website/i18n/en/docusaurus-plugin-content-docs/current",
           "mainDocId": "intro",
           "sidebars": {
             "someSidebar": [
@@ -288,7 +288,7 @@
               "id": "intro",
               "isDocsHomePage": false,
               "title": "Introduction",
-              "description": "Overview",
+              "description": "<!-- ## Overview",
               "source": "@site/docs/introduction.md",
               "slug": "/",
               "permalink": "/docs/",

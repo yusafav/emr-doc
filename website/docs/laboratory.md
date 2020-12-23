@@ -11,7 +11,7 @@ Laboratory section deals with the lab tests available for the patient.
 
 - This section lists the specimens which the patient needs to be tested.
 
-![specimen](assets/laboratory/lab_1.png)
+![specimen](assets/laboratory/lab_main.png)
 
 - The table contains:
 
@@ -25,12 +25,12 @@ Laboratory section deals with the lab tests available for the patient.
 
       - On clicking the edit icon the edit modal will be opened.
       - The admin can either edit the specimen name in the `Type` field and save it .
-      ![edit specimen](assets/laboratory/laboratory_edit.png)
+      ![edit specimen](assets/laboratory/lab_main_edit.png)
 
     - #### Delete
       - On Clicking the delete icon a confirmation modal will be displayed before deleting the specimen permanently.
       - After confirming the delete action the deleted specimen will no longer be availble for testing.
-      ![delete specimen](assets/laboratory/laboratory_delete.png)
+      ![delete specimen](assets/laboratory/lab_main_delete.png)
 
 
   
@@ -41,13 +41,13 @@ Laboratory section deals with the lab tests available for the patient.
 - In the modal add the name of the new specimen in the `Type` field.
 - Click on the `Save` button to add the new specimen.
 
-![new specimen](assets/laboratory/laborartory_new_type.png)
+![new specimen](assets/laboratory/lab_main_new_type.png)
 
 ## Listing The Chemical Components
 
 - This section lists the chemical components of the specimen which needs to be tested.
 
-![Chemical Component](assets/laboratory/laborartory_manage_tests.png)
+![Chemical Component](assets/laboratory/lab_test_type_main.png)
 
 - The table contains:
 
@@ -60,12 +60,12 @@ Laboratory section deals with the lab tests available for the patient.
 
       - On clicking the edit icon the edit modal will be opened.
       - The admin can either edit the chemical component name in the `Type` field and save it .
-      ![edit Chemical Component](assets/laboratory/edit_2.png)
+      ![edit Chemical Component](assets/laboratory/lab_test_type_edit.png)
 
     - #### Delete
       - On Clicking the delete icon a confirmation modal will be displayed before deleting the chemical component of the specimen permanently.
       - After confirming the delete action the deleted the chemical component of the specimen will no longer be availble for testing.
-      ![delete Chemical Component](assets/laboratory/delete_2.png)
+      ![delete Chemical Component](assets/laboratory/lab_test_type_delete.png)
   
   
 
@@ -75,7 +75,7 @@ Laboratory section deals with the lab tests available for the patient.
 - In the modal add the name of the new chemical component of the specimen in the `Type` field.
 - Click on the `Save` button to add the new specimen.
 
-![new chemical component](assets/laboratory/new_test.png)
+![new chemical component](assets/laboratory/lab_test_type_new.png)
 
 ## Listing the Tests
 
@@ -108,7 +108,7 @@ Laboratory section deals with the lab tests available for the patient.
 - Click on the `Save` button to add the new specimen.
 
 
-![new test](assets/laboratory/new_test.png)
+![new test](assets/laboratory/lab_test_new.png)
 
 ## UI Change
 
@@ -119,4 +119,4 @@ Steps to be followed in the Doctor screen are:
 
 
 The resulting doctor screen is as follows:
-![Changes in doctor page](assets/laboratory/doctor_screen.png)
+![Changes in doctor page](assets/laboratory/lab_doctor.png)

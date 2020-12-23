@@ -1,6 +1,6 @@
 export default {
   title: "Meditagg",
-  tagline: "ghfh",
+  tagline: "The tagline of my site",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -37,7 +37,7 @@ export default {
     },
     footer: {
       style: "dark",
-      copyright: "Copyright © 2020 Emr.",
+      copyright: "Copyright © 2020 Meditagg.",
       links: [],
     },
     colorMode: {

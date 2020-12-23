@@ -22,7 +22,8 @@
             },
             {
               "id": "dictionary",
-              "path": "/docs/dictionary"
+              "path": "/docs/dictionary",
+              "sidebar": "someSidebar"
             },
             {
               "id": "doc4",

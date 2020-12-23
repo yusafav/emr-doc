@@ -52,6 +52,10 @@
                   },
                   {
                     "type": "doc",
+                    "id": "dictionary"
+                  },
+                  {
+                    "type": "doc",
                     "id": "manageSections"
                   },
                   {
@@ -93,6 +97,7 @@
           "permalinkToSidebar": {
             "/docs/chiefComplaints": "someSidebar",
             "/docs/Departments": "someSidebar",
+            "/docs/dictionary": "someSidebar",
             "/docs/drugs": "someSidebar",
             "/docs/emailTemplate": "someSidebar",
             "/docs/generalSettings": "someSidebar",
@@ -159,7 +164,16 @@
               "slug": "/dictionary",
               "permalink": "/docs/dictionary",
               "version": "current",
-              "sidebar_label": "Dictionary"
+              "sidebar_label": "Dictionary",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Drugs",
+                "permalink": "/docs/drugs"
+              },
+              "next": {
+                "title": "Manage Sections",
+                "permalink": "/docs/manageSections"
+              }
             },
             {
               "unversionedId": "doc4",
@@ -189,8 +203,8 @@
                 "permalink": "/docs/observations"
               },
               "next": {
-                "title": "Manage Sections",
-                "permalink": "/docs/manageSections"
+                "title": "Dictionary",
+                "permalink": "/docs/dictionary"
               }
             },
             {
@@ -354,8 +368,8 @@
               "sidebar_label": "Manage Sections",
               "sidebar": "someSidebar",
               "previous": {
-                "title": "Drugs",
-                "permalink": "/docs/drugs"
+                "title": "Dictionary",
+                "permalink": "/docs/dictionary"
               },
               "next": {
                 "title": "Manage Insurance",

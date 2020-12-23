@@ -7,6 +7,7 @@ module.exports = {
       "Departments",
       "observations",
       "drugs",
+      "dictionary",
       "manageSections",
       "manageInsurance",
       "laboratory",

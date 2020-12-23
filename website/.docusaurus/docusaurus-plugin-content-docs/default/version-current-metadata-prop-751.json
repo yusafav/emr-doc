@@ -49,6 +49,11 @@
           },
           {
             "type": "link",
+            "label": "Dictionary",
+            "href": "/docs/dictionary"
+          },
+          {
+            "type": "link",
             "label": "Manage Sections",
             "href": "/docs/manageSections"
           },
@@ -99,6 +104,7 @@
   "permalinkToSidebar": {
     "/docs/chiefComplaints": "someSidebar",
     "/docs/Departments": "someSidebar",
+    "/docs/dictionary": "someSidebar",
     "/docs/drugs": "someSidebar",
     "/docs/emailTemplate": "someSidebar",
     "/docs/generalSettings": "someSidebar",

@@ -11,8 +11,8 @@
   "sidebar_label": "Manage Sections",
   "sidebar": "someSidebar",
   "previous": {
-    "title": "Drugs",
-    "permalink": "/docs/drugs"
+    "title": "Dictionary",
+    "permalink": "/docs/dictionary"
   },
   "next": {
     "title": "Manage Insurance",

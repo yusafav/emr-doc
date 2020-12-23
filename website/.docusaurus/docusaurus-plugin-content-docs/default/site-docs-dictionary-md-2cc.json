@@ -8,5 +8,14 @@
   "slug": "/dictionary",
   "permalink": "/docs/dictionary",
   "version": "current",
-  "sidebar_label": "Dictionary"
+  "sidebar_label": "Dictionary",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Drugs",
+    "permalink": "/docs/drugs"
+  },
+  "next": {
+    "title": "Manage Sections",
+    "permalink": "/docs/manageSections"
+  }
 }

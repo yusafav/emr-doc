@@ -44,47 +44,47 @@ export default [
 },
 {
   path: '/blog',
-  component: ComponentCreator('/blog','1e1'),
+  component: ComponentCreator('/blog','64f'),
   exact: true,
 },
 {
   path: '/blog/hello-world',
-  component: ComponentCreator('/blog/hello-world','1a0'),
+  component: ComponentCreator('/blog/hello-world','12b'),
   exact: true,
 },
 {
   path: '/blog/hola',
-  component: ComponentCreator('/blog/hola','f03'),
+  component: ComponentCreator('/blog/hola','680'),
   exact: true,
 },
 {
   path: '/blog/tags',
-  component: ComponentCreator('/blog/tags','a18'),
+  component: ComponentCreator('/blog/tags','45c'),
   exact: true,
 },
 {
   path: '/blog/tags/docusaurus',
-  component: ComponentCreator('/blog/tags/docusaurus','a7a'),
+  component: ComponentCreator('/blog/tags/docusaurus','806'),
   exact: true,
 },
 {
   path: '/blog/tags/facebook',
-  component: ComponentCreator('/blog/tags/facebook','d1f'),
+  component: ComponentCreator('/blog/tags/facebook','bdf'),
   exact: true,
 },
 {
   path: '/blog/tags/hello',
-  component: ComponentCreator('/blog/tags/hello','6b1'),
+  component: ComponentCreator('/blog/tags/hello','757'),
   exact: true,
 },
 {
   path: '/blog/tags/hola',
-  component: ComponentCreator('/blog/tags/hola','971'),
+  component: ComponentCreator('/blog/tags/hola','1f7'),
   exact: true,
 },
 {
   path: '/blog/welcome',
-  component: ComponentCreator('/blog/welcome','8a7'),
+  component: ComponentCreator('/blog/welcome','5b8'),
   exact: true,
 },
 {

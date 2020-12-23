@@ -1,6 +1,6 @@
 ---
 id: radiology
-title: radiology
+title: Radiology
 sidebar_label: Radiology
 # slug: /
 ---

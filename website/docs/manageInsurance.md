@@ -14,13 +14,14 @@ This option gives the admin to add a new insurance scheme as well as update and 
   - `Provider Name` : Name of the company providing the insurance.
   - `Type` : Type of the insurance being taken.
 
-    - There are 3 choices: `self`,`copay`,`both`.
+    - There are 3 choices: `self` , `copay` , `both`.
 
     ![First Type ](assets/manage-insurance/firsttype.png)
 
   - `Amount` : The bill amount of the patient to which the insurance is covered.
   - `Type` : There are 2 options.
     - There are 2 options: `Percentage` , `Fixed Amount`.
+    
       ![Percentage/Fixed](assets/manage-insurance/percetage-fixed.png)
 
 - Once the insurance is created, it will be visible to the receptionist during instances like :
@@ -33,9 +34,17 @@ This option gives the admin to add a new insurance scheme as well as update and 
   - If he accepts the claim, then the bill amount of the patient will be deducted from the sum insured by the policy.
   - The remaining amount will have to be paid by the patient.
 
-## Edit existing insurance
+## Edit Existing Insurance
 
 - Admin can edit/update an already existing insurance scheme details.
 - All fields which was mentioned earlier can be updated by the admin.
 - Edit option can be found in the right side of all available insuarnce policies in the admin page.
   ![Edit insurance](assets/manage-insurance/edit.png)
+
+  ## Delete Existing Insurance
+
+  - Admin can delete an already existing insurance scheme.
+
+  ![Delete insurance 1](assets/manage-insurance/insurance-delete-1.png)
+
+  ![Delete insurance 2](assets/manage-insurance/insurance-delete-2.png)

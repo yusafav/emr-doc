@@ -11,7 +11,7 @@ User roles section initially displays the list of user roles.
 
 ![User roles section](assets/userRole/userRoleList.png)
 
-## Listing the Permissions and status
+## Listing the Permissions and Status
 
 - On selecting any user roles the permissions associated with the user roles will be listed down.
 - All the permisssions available for the selected user will be listed down which the admin can enable or disable.

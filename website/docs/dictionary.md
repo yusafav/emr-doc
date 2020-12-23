@@ -2,10 +2,9 @@
 id: dictionary
 title: Dictionary
 sidebar_label: Dictionary
-slug: /
 ---
 
-Dictionaries are the application meta datas which are used as the dropdowns through out the application like `disease`,`allergy`,`citizenship`,`email type`,`generic codes`,`citizenship`,`primary languages`,`specialities` etc..
+Dictionaries are the application meta datas which are used as the dropdowns through out the application like `disease` , `allergy` , `citizenship` , `email type` , `generic codes` , `citizenship` , `primary languages` , `specialities` etc..
 
 ## Export
 
@@ -27,15 +26,15 @@ User can create a new dictionary by adding the details
 
 ###### Fields
 
-- `Code Type`: It is the type of application meta data.
-- `Code`: It is the code of the meta datas ie the values which comes in the dropdowns in various screens.
-- `Text`: While adding new dictionary the admin can add a text for the new dictionary.
-- `Description`: Admin can add the description for the dictionary
-- `Actions`: Two types of actions are available for each dictionary.
+- `Code Type` : It is the type of application meta data.
+- `Code` : It is the code of the meta datas ie the values which comes in the dropdowns in various screens.
+- `Text` : While adding new dictionary the admin can add a text for the new dictionary.
+- `Description` : Admin can add the description for the dictionary
+- `Actions` : Two types of actions are available for each dictionary.
 
 ## Filtering
 
-Dictionaries can be filtered based on the different dictionary types like `disease`,`allergy`,`citizenship`,`email type`,`generic codes`,`citizenship`,`primary languages`,`specialities` etc
+Dictionaries can be filtered based on the different dictionary types like `disease` , `allergy`, `citizenship` , `email type` , `generic codes` , `citizenship` , `primary languages` , `specialities` etc
 
 ## Listing
 
@@ -46,6 +45,7 @@ Dictionary section displays the list of dictionaries with each dictionary having
   - On clicking the edit icon the edit modal will be opened.
   - The admin can either edit the dictionary details and save it .
   - The edit modal contains the same [fields](#fields) displayed in the table.
+  
 
 - #### Delete:
 

@@ -3,7 +3,7 @@
   "id": "drugs",
   "isDocsHomePage": false,
   "title": "Drugs",
-  "description": "Drugs are the medicines prescribed by the doctor while examining the patient.",
+  "description": "Drugs section allows the admin to upload the drugs which is prescribed by the doctor after examining the patient.",
   "source": "@site/docs/drugs.md",
   "slug": "/drugs",
   "permalink": "/docs/drugs",

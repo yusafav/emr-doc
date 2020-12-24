@@ -102,7 +102,7 @@ These are the list of sub sections available for the selected section.It Contain
 
 On clicking the `Create New Field` button a modal will be opened which contains [field](#fields) details.
 
-## UI Changes
+## Example
 
 The sections added wil be displayed in the respective user screen.For example
 

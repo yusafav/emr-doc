@@ -5,7 +5,7 @@ sidebar_label: Observations
 # slug: /
 ---
 
-These are the observations about the patient added by the doctor in the examination section after submitting the examinations fields.
+Observation screen allows to admin to configure the observation form used by the doctor to record the health details after examining the patient.
 
 ## Listing
 
@@ -25,10 +25,12 @@ This screen lists different observation items called forms.Each form item has di
 
 - Clicking on the `Create New Field` in the manage field section inside observations opens a modal.
 - The modal contains fields:
+
   - `Name` : It is the name used to identify the field
   - `Type` : It is the type of the field like drop down ,text area ,input text,radio button, date picker,input number
   - `Mandatory` : It is a checkbox to record whether the field is mandatory or not.
   - `Input Box Size` :It allows the user to choose the size of the input box from the options.
+
     - `Full Width` : On selecting the full width the field occupies the full width of the form conatiner.
     - `Half width` : On selecting the half width the field occupies the half width of the form conatiner.
 
@@ -44,7 +46,6 @@ It deletes the field permanently.
 ![Delete observation field](assets/observation/delete-button.png)
 
 ![Delete observation field](assets/observation/delete-modal.png)
-
 
 ## UI Change
 

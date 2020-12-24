@@ -4,9 +4,11 @@ title: HL7 Listeners
 sidebar_label: HL7 Listeners
 ---
 
-HL7 (Health Level Seven) is a set of standards, formats, and definitions for the exchange, integration, sharing, and retrieval of electronic health information. HL7 has compiled a collection of message formats and related clinical standards that define an ideal presentation of clinical information. HL7 also promotes global interoperability in healthcare IT by providing guidance about how to implement its standards.
+HL7 Listeners screen helps to configure the listeners who will receive the hl7 messages by specifying the needed [parameters](#fields).
 
 ## HL7 Listeners
+
+The HL7 Listener is a utility which functions like a simple HL7 server. It is designed to make it easy to listen and record a stream of messages from an HL7 server.
 
 Listeners details include:
 
@@ -22,9 +24,11 @@ Listeners details include:
 
     It allows the admin to edit the listener details.The admin can edit the following fields of the HL7 Listener:
 
+    ###### fields
+
     - `Facility Name`,`Application Name`,`Ip Address`,`Port`,`Receiver Namespace Id`,`Receiver Universal Id`.
 
-      ![hl7](assets/hl7/editHl7.png)
+    ![hl7](assets/hl7/editHl7.png)
 
   - ##### Delete
 

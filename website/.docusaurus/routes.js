@@ -89,7 +89,7 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','ca7'),
+  component: ComponentCreator('/docs','ab0'),
   
   routes: [
 {
@@ -113,11 +113,6 @@ export default [
   exact: true,
 },
 {
-  path: '/docs/doc4',
-  component: ComponentCreator('/docs/doc4','50f'),
-  exact: true,
-},
-{
   path: '/docs/drugs',
   component: ComponentCreator('/docs/drugs','a86'),
   exact: true,
@@ -135,11 +130,6 @@ export default [
 {
   path: '/docs/hl7Listeners',
   component: ComponentCreator('/docs/hl7Listeners','fd8'),
-  exact: true,
-},
-{
-  path: '/docs/intro',
-  component: ComponentCreator('/docs/intro','80e'),
   exact: true,
 },
 {

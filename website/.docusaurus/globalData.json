@@ -26,10 +26,6 @@
               "sidebar": "someSidebar"
             },
             {
-              "id": "doc4",
-              "path": "/docs/doc4"
-            },
-            {
               "id": "drugs",
               "path": "/docs/drugs",
               "sidebar": "someSidebar"
@@ -47,11 +43,6 @@
             {
               "id": "hl7Listeners",
               "path": "/docs/hl7Listeners",
-              "sidebar": "someSidebar"
-            },
-            {
-              "id": "intro",
-              "path": "/docs/intro",
               "sidebar": "someSidebar"
             },
             {

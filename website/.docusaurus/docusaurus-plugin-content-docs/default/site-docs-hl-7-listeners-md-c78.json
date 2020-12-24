@@ -3,7 +3,7 @@
   "id": "hl7Listeners",
   "isDocsHomePage": false,
   "title": "HL7 Listeners",
-  "description": "HL7 (Health Level Seven) is a set of standards, formats, and definitions for the exchange, integration, sharing, and retrieval of electronic health information. HL7 has compiled a collection of message formats and related clinical standards that define an ideal presentation of clinical information. HL7 also promotes global interoperability in healthcare IT by providing guidance about how to implement its standards.",
+  "description": "HL7 Listeners screen helps to configure the listeners who will receive the hl7 messages by specifying the needed parameters.",
   "source": "@site/docs/hl7Listeners.md",
   "slug": "/hl7Listeners",
   "permalink": "/docs/hl7Listeners",

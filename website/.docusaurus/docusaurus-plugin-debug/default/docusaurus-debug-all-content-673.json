@@ -102,7 +102,6 @@
             "/docs/emailTemplate": "someSidebar",
             "/docs/generalSettings": "someSidebar",
             "/docs/hl7Listeners": "someSidebar",
-            "/docs/intro": "someSidebar",
             "/docs/": "someSidebar",
             "/docs/laboratory": "someSidebar",
             "/docs/ManageConsentForm": "someSidebar",
@@ -177,22 +176,11 @@
               }
             },
             {
-              "unversionedId": "doc4",
-              "id": "doc4",
-              "isDocsHomePage": false,
-              "title": "Document Number 4",
-              "description": "This is a link to another document. This is a link to an external page.",
-              "source": "@site/docs/doc4.md",
-              "slug": "/doc4",
-              "permalink": "/docs/doc4",
-              "version": "current"
-            },
-            {
               "unversionedId": "drugs",
               "id": "drugs",
               "isDocsHomePage": false,
               "title": "Drugs",
-              "description": "Drugs are the medicines prescribed by the doctor while examining the patient.",
+              "description": "Drugs section allows the admin to upload the drugs which is prescribed by the doctor after examining the patient.",
               "source": "@site/docs/drugs.md",
               "slug": "/drugs",
               "permalink": "/docs/drugs",
@@ -250,7 +238,7 @@
               "id": "hl7Listeners",
               "isDocsHomePage": false,
               "title": "HL7 Listeners",
-              "description": "HL7 (Health Level Seven) is a set of standards, formats, and definitions for the exchange, integration, sharing, and retrieval of electronic health information. HL7 has compiled a collection of message formats and related clinical standards that define an ideal presentation of clinical information. HL7 also promotes global interoperability in healthcare IT by providing guidance about how to implement its standards.",
+              "description": "HL7 Listeners screen helps to configure the listeners who will receive the hl7 messages by specifying the needed parameters.",
               "source": "@site/docs/hl7Listeners.md",
               "slug": "/hl7Listeners",
               "permalink": "/docs/hl7Listeners",
@@ -264,23 +252,6 @@
               "next": {
                 "title": "Email Template",
                 "permalink": "/docs/emailTemplate"
-              }
-            },
-            {
-              "unversionedId": "intro",
-              "id": "intro",
-              "isDocsHomePage": false,
-              "title": 222,
-              "description": "Overview",
-              "source": "@site/docs/doc1.md",
-              "slug": "/intro",
-              "permalink": "/docs/intro",
-              "version": "current",
-              "sidebar_label": "Getting Started",
-              "sidebar": "someSidebar",
-              "next": {
-                "title": "User Roles",
-                "permalink": "/docs/userRoles"
               }
             },
             {
@@ -398,7 +369,7 @@
               "id": "observations",
               "isDocsHomePage": false,
               "title": "Observations",
-              "description": "These are the observations about the patient added by the doctor in the examination section after submitting the examinations fields.",
+              "description": "Observation screen allows to admin to configure the observation form used by the doctor to record the health details after examining the patient.",
               "source": "@site/docs/observations.md",
               "slug": "/observations",
               "permalink": "/docs/observations",

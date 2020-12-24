@@ -1,6 +1,6 @@
 export default {
   title: "Meditagg Doc",
-  tagline: "Application for managing electronic medical data ",
+  tagline: "Application for Managing Electronic Medical Data ",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -10,28 +10,28 @@ export default {
   projectName: "docusaurus",
   themeConfig: {
     navbar: {
-      title: "Meditagg Doc",
+      title: "Documentation",
       logo: {
-        alt: "My Site Logo",
+        alt: "Meditagg Logo",
         src: "img/meditaggLogo.png",
       },
       items: [
-        {
-          to: "docs/",
-          activeBasePath: "docs",
-          label: "Docs",
-          position: "left",
-        },
-        {
-          to: "blog",
-          label: "Blog",
-          position: "left",
-        },
-        {
-          href: "https://github.com/facebook/docusaurus",
-          label: "GitHub",
-          position: "right",
-        },
+        // {
+        //   to: "docs/",
+        //   activeBasePath: "docs",
+        //   label: "Docs",
+        //   position: "left",
+        // },
+        // {
+        //   to: "blog",
+        //   label: "Blog",
+        //   position: "left",
+        // },
+        // {
+        //   href: "https://github.com/facebook/docusaurus",
+        //   label: "GitHub",
+        //   position: "right",
+        // },
       ],
       hideOnScroll: false,
     },

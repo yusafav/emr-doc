@@ -5,7 +5,7 @@ sidebar_label: Drugs
 # slug: /
 ---
 
-Drugs are the medicines prescribed by the doctor while examining the patient.
+Drugs section allows the admin to upload the drugs which is prescribed by the doctor after examining the patient.
 
 ![list the drugs](assets/drug/listDrug.png)
 
@@ -31,8 +31,6 @@ Drugs are the medicines prescribed by the doctor while examining the patient.
 
 User can create a new drugs by adding the drug details in the modal displayed after clicking the `Create New Medicine`
 
-
-
 ###### Fields
 
 - `Code` : It is the code of the meta datas ie the values which comes in the dropdowns in various screens.
@@ -47,7 +45,6 @@ User can create a new drugs by adding the drug details in the modal displayed af
 - `Actions` : Two types of actions are available for each drug.
 
 ![create drug](assets/drug/addDrug.png)
-
 
 ## Searching
 
@@ -85,4 +82,3 @@ The changes made in drugs gets reflected in the doctor screen in Medical history
 The changes made in drugs gets reflected in the doctor screen in Prescriptions section as:
 
 ![medicine name](assets/drug/medicineName.png)
-

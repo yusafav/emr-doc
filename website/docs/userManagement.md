@@ -24,28 +24,31 @@ User details include:
 - `Updated By` : It is the name of the user who updated the user details recently.
 - `Last Updated` : It is the date when the user details are recently updated.
 - `Actions` : It includes two actions:
-  - ##### Edit
-    It allows the admin to edit the user details.The admin can edit the following fields of the user:
-    - `User Type` , `Department` , `First Name` , `Last Name` , `Gender` , `Date of Birth` , `Primary Contact No` , `Secondary Contact Number` , `Consultation Time (Minutes)` , `Start Time` , `End Time` , `Consultation Fee` , `Privileges` , `Active Status`.
 
+  - ##### Edit
+
+  - It allows the admin to edit the user details.The admin can edit the following fields of the user:
+
+  ###### Fields
+
+  - `User Type` , `Department` , `First Name` , `Last Name` , `Gender` , `Date of Birth` , `Primary Contact No` , `Secondary Contact Number` , `Consultation Time (Minutes)` , `Start Time` , `End Time` , `Consultation Fee` , `Privileges` , `Active Status`.
+  - On editing the selected user the admin can assign a special user permission by selecting the particular permission under the privileges section
 
 ![edit user](assets/userManagement/editUser.png)
 
-  - ##### Delete
-    It deletes the user permanently.
-    - On Clicking the delete icon a confirmation modal will be displayed before deleting the user permanently.
-    - After confirming the delete action the deleted user will not be displayed no longer in the user table.
-    
+- ##### Delete
+  It deletes the user permanently.
+  - On Clicking the delete icon a confirmation modal will be displayed before deleting the user permanently.
+  - After confirming the delete action the deleted user will not be displayed no longer in the user table.
+
 ![delete user](assets/userManagement/deleteUser.png)
 
-## Create New User Role
+## Create New User
 
-New user can be added by clicking the <code>Create Role</code>.
+New user can be added by clicking the <code>Create User</code>.
 
-Create User Role modal have basically three fields:
+Create User modal have same [fields](#fields) as in edit modal.
 
-- <code> User role name</code> which is a text field to enter the the name of the user role.
-- <code>Backoffice User</code> which is a radio button accepting yes or no values.It is to confirm whether the user is an admin or not..
-- <code> Is Department Related</code> which is a checkbox to record whether the new user role is related to any department or not.
+- On creating a new user the admin can assign a special user permission by selecting the particular permission under the privileges section
 
 ![Create new user](assets/userManagement/createNewUserRole.png)

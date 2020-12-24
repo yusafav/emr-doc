@@ -27,7 +27,7 @@ New user can be added by clicking the <code>Create Role</code>.
 Create User Role modal have basically three fields:
 
 - <code> User role name</code> which is a text field to enter the the name of the user role.
-- <code>Backoffice User </code> which is a radio button accepting yes or no values.
+- <code>Backoffice User </code> determines whether the user can access the admin screen or not.
 - <code> Is Department Related</code> which is a checkbox to record whether the new user role is related to any department or not.
 
 ![Create New User](assets/userRole/createNewUser.png)

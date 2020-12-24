@@ -3,7 +3,7 @@
   "id": "observations",
   "isDocsHomePage": false,
   "title": "Observations",
-  "description": "These are the observations about the patient added by the doctor in the examination section after submitting the examinations fields.",
+  "description": "Observation screen allows to admin to configure the observation form used by the doctor to record the health details after examining the patient.",
   "source": "@site/docs/observations.md",
   "slug": "/observations",
   "permalink": "/docs/observations",

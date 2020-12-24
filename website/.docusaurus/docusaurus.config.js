@@ -1,11 +1,11 @@
 export default {
   title: "Meditagg Doc",
-  tagline: "Hospital and clinical Emr records",
+  tagline: "Application for managing electronic medical data ",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  favicon: "img/meditaggFavIcon.ico",
   organizationName: "facebook",
   projectName: "docusaurus",
   themeConfig: {
@@ -13,7 +13,7 @@ export default {
       title: "Meditagg Doc",
       logo: {
         alt: "My Site Logo",
-        src: "img/logo.svg",
+        src: "img/meditaggLogo.png",
       },
       items: [
         {

@@ -1,93 +1,76 @@
 export default {
-  "title": "Meditagg Doc",
-  "tagline": "The tagline of my site",
-  "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/",
-  "onBrokenLinks": "throw",
-  "onBrokenMarkdownLinks": "warn",
-  "favicon": "img/favicon.ico",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
-  "themeConfig": {
-    "navbar": {
-      "title": "Meditagg Doc",
-      "logo": {
-        "alt": "My Site Logo",
-        "src": "img/logo.svg"
+  title: "Meditagg Doc",
+  tagline: "An Application for Managing Electronic Medical Records",
+  url: "https://your-docusaurus-test-site.com",
+  baseUrl: "/",
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
+  favicon: "img/meditaggFavIcon.ico",
+  organizationName: "facebook",
+  projectName: "docusaurus",
+  themeConfig: {
+    navbar: {
+      title: "Documentation",
+      logo: {
+        alt: "Meditagg Logo",
+        src: "img/meditaggLogo.svg",
       },
-      "items": [
-        {
-          "to": "docs/",
-          "activeBasePath": "docs",
-          "label": "Docs",
-          "position": "left"
-        },
-        {
-          "to": "blog",
-          "label": "Blog",
-          "position": "left"
-        },
-        {
-          "href": "https://github.com/facebook/docusaurus",
-          "label": "GitHub",
-          "position": "right"
-        }
-      ],
-      "hideOnScroll": false
+      items: [],
+      hideOnScroll: false,
     },
-    "footer": {
-      "style": "dark",
-      "copyright": "Copyright © 2020 Meditagg.",
-      "links": []
+    footer: {
+      style: "dark",
+      copyright: "Copyright © 2020 Meditagg.",
+      links: [],
     },
-    "colorMode": {
-      "defaultMode": "light",
-      "disableSwitch": false,
-      "respectPrefersColorScheme": false,
-      "switchConfig": {
-        "darkIcon": "🌜",
-        "darkIconStyle": {},
-        "lightIcon": "🌞",
-        "lightIconStyle": {}
-      }
+    colorMode: {
+      defaultMode: "light",
+      disableSwitch: false,
+      respectPrefersColorScheme: false,
+      switchConfig: {
+        darkIcon: "🌜",
+        darkIconStyle: {},
+        lightIcon: "🌞",
+        lightIconStyle: {},
+      },
     },
-    "docs": {
-      "versionPersistence": "localStorage"
+    docs: {
+      versionPersistence: "localStorage",
     },
-    "metadatas": [],
-    "prism": {
-      "additionalLanguages": []
+    metadatas: [],
+    prism: {
+      additionalLanguages: [],
     },
-    "hideableSidebar": false
+    hideableSidebar: false,
   },
-  "presets": [
+  presets: [
     [
       "@docusaurus/preset-classic",
       {
-        "docs": {
-          "sidebarPath": "/home/greeshma/workspace/emr-docusaurus/website/sidebars.js"
+        docs: {
+          sidebarPath:
+            "/home/greeshma/workspace/emr-docusaurus/website/sidebars.js",
         },
-        "blog": {
-          "showReadingTime": true
+        blog: {
+          showReadingTime: true,
         },
-        "theme": {
-          "customCss": "/home/greeshma/workspace/emr-docusaurus/website/src/css/custom.css"
-        }
-      }
-    ]
-  ],
-  "baseUrlIssueBanner": true,
-  "i18n": {
-    "defaultLocale": "en",
-    "locales": [
-      "en"
+        theme: {
+          customCss:
+            "/home/greeshma/workspace/emr-docusaurus/website/src/css/custom.css",
+        },
+      },
     ],
-    "localeConfigs": {}
+  ],
+  baseUrlIssueBanner: true,
+  i18n: {
+    defaultLocale: "en",
+    locales: ["en"],
+    localeConfigs: {},
   },
-  "onDuplicateRoutes": "warn",
-  "customFields": {},
-  "plugins": [],
-  "themes": [],
-  "titleDelimiter": "|",
-  "noIndex": false
+  onDuplicateRoutes: "warn",
+  customFields: {},
+  plugins: [],
+  themes: [],
+  titleDelimiter: "|",
+  noIndex: false,
 };

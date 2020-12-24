@@ -8,9 +8,9 @@
           "versionPath": "/docs",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/dexter/dexlock/emr-docusaurus/website/sidebars.js",
-          "docsDirPath": "/home/dexter/dexlock/emr-docusaurus/website/docs",
-          "docsDirPathLocalized": "/home/dexter/dexlock/emr-docusaurus/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/home/greeshma/workspace/emr-docusaurus/website/sidebars.js",
+          "docsDirPath": "/home/greeshma/workspace/emr-docusaurus/website/docs",
+          "docsDirPathLocalized": "/home/greeshma/workspace/emr-docusaurus/website/i18n/en/docusaurus-plugin-content-docs/current",
           "mainDocId": "intro",
           "sidebars": {
             "someSidebar": [
